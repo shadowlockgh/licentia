@@ -1,7 +1,7 @@
-
+# Old But Gold
 ---
 > [!NOTE]  
-> This is a folder with previous **Licentia BLACK**'s documentation, images and guides that are still $${\color{red}**not fully reviewed**}$$ and/or transferred to **Licentia NEXT**'s main documentation.
+> This is a folder with previous **Licentia BLACK**'s documentation, images and guides that are still **not fully reviewed** and/or transferred to **Licentia NEXT**'s main documentation.
 > 
 > _May_ be outdated.
 > 
