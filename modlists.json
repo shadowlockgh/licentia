@@ -17,10 +17,8 @@
             "OStim"
         ],
         "nsfw": true,
-        "utility_list": false,
         "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
+        "force_down": true,
         "links": {
             "image": "https://raw.githubusercontent.com/akzar-dev/licentia/main/images/Licentia_Next_logo_v1_4k_transparent.png",
             "readme": "https://github.com/akzar-dev/licentia/blob/main/README.md",
@@ -29,16 +27,13 @@
             "discordURL": "https://discord.gg/hRCYPMpX7J"
         },
         "download_metadata": {
-            "Hash": "",
-            "Size": 0,
-            "NumberOfArchives": 0,
-            "SizeOfArchives": 0,
-            "NumberOfInstalledFiles": 0,
-            "SizeOfInstalledFiles": 0
+            "Hash": "wOToJE0rB0A=",
+            "Size": 848441346,
+            "NumberOfArchives": 1549,
+            "SizeOfArchives": 187323372454,
+            "NumberOfInstalledFiles": 360986,
+            "SizeOfInstalledFiles": 310010929819
         },
-        "version": "13.3.2",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2024-10-31T15:00:00.0000000Z",
-        "repositoryName": ""
+        "version": "13.3.2"
     }
 ]
