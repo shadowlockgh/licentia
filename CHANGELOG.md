@@ -6,7 +6,76 @@
 
 ## LICENTIA NEXT 13.3.2
 
-`TBD`
+:white_check_mark: **SAVE SAFE** with **Licentia BLACK 13.3.0/13.3.1**
+(_you'd get missing plugins notification, but it's safe to ignore cause that's just texture mods.)_
+
+**Added:**
+- `Optimised Scripts for Ordinator` - 1.0
+- `Optimised Scripts for Apocalypse-Ordinator Patch` - 1.0
+- `ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA` - 1.2.3 (now TAA is enabled and FXAA is disabled in skyrimperfs.ini) (thanks @CatastrophicApathy)
+- `Unique Map Weather` - 1.1.1
+- `Feminine Argonian Textures (Chameleon and Lizard) Hotfix [CBBE]` - 3.3.0.Hotfix (helps match the head)
+- `Hotkey Reminder` - 1.0.2 (+ custom Licentia NEXT config by @CatastrophicApathy)
+- New main menu and loading wallpaper (hid `logo.nif` in Nordic UI , replaced with `Licentia NEXT Main Menu`)
+
+**Removed:**
+- `Weather of World` (superseded by `Unique Map Weather`)
+- `The Last Mainmenu Replacer` (replaced with NEXT main menu)
+- `Mega Main Menu` (aka `BLACK Main Menu`) (also replaced with NEXT main menu)
+- Deorder plugins unnecessary download
+
+**Updated:**
+- `ENB v502` - latest (19 october 2024)
+- `Blood of the Ancients - Permanent` - 2.0 -> 2.1
+- `Lae'zel A Githyanki Preset (Custom Overlays Included) by Swagmeister` - 1.1 -> 1.2 (and resources too)
+- `More Informative Console` - 1.2.1 -> 1.2.2
+- `Base Object Swapper` - 3.3.0 -> 3.3.1
+- `Dynamic Things Alternative - Base Object Swapper` - 0.2.2 -> 0.3
+- `powerofthree's Tweaks` - 1.11 -> 1.12.2
+- `powerofthree's Papyrus Extender` - 5.8 -> 5.9
+- `Crash Logger SSE AE VR` - 1.14.1 -> 1.15
+- `True Directional Movement` - 2.2.5 -> 2.2.6
+- `Myrwatch - Editable Home Cells` - 1.0 -> 1.1.1
+- `wd - Barrels` - 1.1 -> 1.2.1
+- `RUGNAROK - Special Edition` - 1.1 -> 1.1.1
+- `(4) Alchemy Station Variants - Persistent Swap ENB` - 1.2.1 -> 1.4.3
+- `Ignoble Beds - Noble and Upper Class Bed Replacer` - 1.0.3 -> 1.0.6
+- `The Ultimate Control Scheme` - 1.1 -> 1.4
+- `Comprehensive Attack Rate Patch - SKSE` - 1.1.2.11 -> 1.1.2.12
+- `Camera Persistence Fixes` - 1.0 -> 1.1
+- `iWantWindgets` - 1.31 -> 1.33
+- `ENB Light - patch for Quick Light SE` - 1.1 -> 1.2
+- (`JS Essence Extractor SE`) `JS Essence and Ash Extractors SE` - 1.2 -> 1.3
+- `OStim Standalone - Advanced Adult Animation Framework` - 7.3.1a -> 7.3.3a
+- `Lovemaking Compendium for OStim Standalone` - 1.7.5 -> 1.9.0
+- `Open Animations Romance and Erotica` - 1.51 -> 1.52
+- `I'm Glad You're Here` - 3.2.3 -> 3.3.0
+- `Animated Forge Water` - 0.8 -> 0.9
+- `Merlin the Corgi` - 2.0.6 -> 2.0.7
+- `Conditional Dog Barking (OAR)` - 1.2.0 -> 1.2.1
+- `SPID - NFF - Add Ignore Token to CustomAI Follower` - 1.0.28 -> 1.0.30
+- `Landscape Fixes For Grass Mods` - 5.5 -> 5.6
+
+- Technical tools updates: 
+    - `Synthesis` - 0.29.2 -> 0.30.6
+    - `xLodGen` 116 -> 127
+    - `Bodyslide` 5.6.3 -> 5.7.0
+
+**Fixed/Patched:**
+- `MCM Saved Settings: TUDM` - Target lock to only hostiles by default, Mouse button 4 for target lock
+- `MCM Recording: QuickLight` - Holding interact key doesn't lite up the lantern anymore (it messed up the lantern)
+- `MCM Recording: I'm Glad You're Here` - Disabled horse interaction (to make mounting quicker)
+- In `SSE Display tweaks`:
+  ```
+  UIFramerateLimitMain = 60
+  UIFramerateLimitMainVSyncOff = false
+  ```
+- **Bugfixes**:
+  - Missing pleasure bars (https://discord.com/channels/719714673431150627/1286429263230271549) - added back `Frostfall UI Nordic UI patch` - 1.0 (was mistakenly removed in 13.3.1, now OStim excitement bars should work!)
+  - Some helmets were missing (https://discord.com/channels/719714673431150627/1285801684924370985) - fixed by re-running bodyslide
+  - Map issues (https://discord.com/channels/719714673431150627/1289321347075407882) - fixed with config (`A Clear Map of Skyrim and Other Worlds (LOD32 ini file)`)and consistency .esp  (`Licentia map consistency fix`)
+  - Cows missing fluffworks shader - hid a `highlandcow.nif` from `Fixed Mesh Lightning` that was overriding Fluffworks
+- Re-ran Nemesis
 
 ---
 > [!IMPORTANT]  
