@@ -1,5 +1,3 @@
-*A guide by Cacophony - and ported to Licentia Black by Katiefraggle42*
-
 **Using A Controller - New and improved and updated for Licentia Black**
 
 Controller mods are disabled by default. They can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to enable all these mods and delete any `ControlMap_Custom` file(s) in your Licentia "Stock Game" folder install directory. If there is no such file in this directory, you do not need to worry about it. Just make certain one is not present. The Gamepad is also disabled in _Skyrim's_ default "Settings" menu, that option will need to be checked. 
