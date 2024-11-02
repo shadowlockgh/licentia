@@ -17,15 +17,16 @@ These are the general steps to set up a **controller** for **Licentia NEXT**:
 
 <img src="/images/guides_images/controller_guide/1_enable_controller_mods.png" alt="List of controller mods" style="width:90%; height:auto;">
 
-**Auto Input Switch** allows you to freely move between keyboard and the controller.  Handy in many cases especially using OStim controls.
+Here's a **brief description** of these mods:
+- **Auto Input Switch** allows you to freely move between keyboard and the controller. Handy in many cases especially using `OStim` controls.
 
-**The Ultimate Control Scheme** (TUCS) maps the controller to functions.  Look at the mod page for more info.
+- **The Ultimate Control Scheme** (or `TUCS`) maps the controller to functions. Look at the mod's page for more info.
 
-**Essential Favorites** prevents favorited items from being sold, crafted, disarmed, disenchanted, or dropped.  Not really a controller mod but handy.
+- **Essential Favorites** prevents favorite items from being sold, crafted, disarmed, disenchanted, or dropped. Not _really_ a controller mod but handy.
 
-**Favorite Misc Items** allows you to favorite books/soul gems/keys and other misc items.  Not really a controller mod but handy.
+- **Favorite Misc Items** allows you to favorite books/soul gems/keys and other misc items. Also not really a controller mod, but again - handy!
 
-**Serios Hotkeys** allows players to map hotkeys or use the vanilla hotkeys to equip weapons, shields, shouts, and spells in the right hand, left hand, and shout/power slots.  It enables 8 Hotkeys on the controller.  Explained in TUCS
+- **Serio's Cycle Hotkeys** allows players to map hotkeys or use the vanilla hotkeys to equip weapons, shields, shouts, and spells in the right hand, left hand, and shout/power slots. It enables **8** Hotkeys on the controller. Explained at [TUCS modpage](https://www.nexusmods.com/skyrimspecialedition/mods/29381).
 
 ## Step 2.  Enable Controller in Skyrim
 
@@ -67,8 +68,7 @@ Anyway, your settings **should look like this**:
 
 ## Step 6. Setup Serio's Cycle Hotkeys and True Directional Movement
 
-1. Download and install [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184) as usual via MO2.
-2. The mod comes with the **setter** hotkey configured as `B` _(you can remap it via MCM if you'd like)_. When you are in game and have weapons equipped, press `B` and mod's screens will come up. For further information, **read the mod page**!
+`Serio's Cycle Hotkeys` mod comes with the **setter** hotkey configured as `B` _(you can remap it via MCM if you'd like)_. When you are in game and have weapons equipped, press `B` and mod's screens will come up. For further information, **read the mod page**!
 
 > [!NOTE]
 > A note about `Target Lock`: that settings is located in `True Directional Movement` MCM, and should be already configured - **just verify it looks like the screenshot:**
