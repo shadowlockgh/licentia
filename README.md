@@ -10,10 +10,10 @@
 ## :book: Preamble
 
 _Licentia NEXT_ is a descendant to one of _Wabbajack's_ oldest and most well-regarded adult modlists &mdash; Licentia BLACK.
-It features optional non-fetish content with a series of _OStim-based_ mods and quests and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy.
+It features optional non-fetish content with a series of _OStim-based_ mods/quests and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy.
 
 > [!TIP]
-> If you want to examine a complete list of the mods in this modlist, [go here to Load Order Library.](https://loadorderlibrary.com/lists/licentia-next)
+> If you want to examine the complete list of mods in _Licentia NEXT_, [go here to Load Order Library.](https://loadorderlibrary.com/lists/licentia-next)
 
 ## :memo: The Most Important Things To Know For Not Having A Really Bad Time With Wabbajack
 This is some sort of an agreement of the parties, them being us (Licentia Team) and you (the user). **Please read it** to understand _what_ you're getting into :feelsgood:
@@ -268,11 +268,13 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 
 ## :hearts: Final Notes
 
-- When you reach your first exterior world location, you will be prompted to enable Survival Mode. This mod disables fast travel and requires eating, sleeping, and staying warm to survive. The option can be changed later in the default `Gameplay` settings of Skyrim.
+- :tiger2: When you reach your first exterior world location, you will be prompted to enable `Survival Mode`. This mod **disables fast travel** and **requires eating, sleeping, and staying warm to survive**. The option can be changed later in the default `Gameplay` settings of Skyrim.
 
-- You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
+- :pray: You will also receive a prompt about which **Divine** and/or **Daedra** you wish to worship, depending on your race. Choose according to your preference _(or don't choose any)_.
 
-- **Controls map** with nice graphics can be viewed by pressing `F11` in-game (thanks to @CatastrophicApathy)
+- :computer: **Controls map** with nice graphics can be viewed by pressing `F11` in-game _(suggested and mapped by our amazing team member [CatastrophicApathy](https://github.com/KMan9454))_
+
+- :video_game: **Want to play with a controller?** - read [this amazing Controller guide](/guides/Controller_guide.md) also written by [CatastrophicApathy](https://github.com/KMan9454)
 
 ## :wrench: Troubleshooting
 
@@ -284,7 +286,7 @@ Download the modlist's `.wabbajack` file again and specify the same directories.
 
 ## :skull: Removing the Modlist
 
-You can just remove your _Licentia's_ **install folder**.
+You can just remove your _Licentia NEXT's_ **install folder**.
 
 ## :mailbox_with_mail: Contact
 
