@@ -68,12 +68,18 @@ Anyway, your settings **should look like this**:
 
 ## Step 6. Setup Serio's Cycle Hotkeys and True Directional Movement
 
-`Serio's Cycle Hotkeys` mod comes with the **setter** hotkey configured as `B` _(you can remap it via MCM if you'd like)_. When you are in game and have weapons equipped, press `B` and mod's screens will come up. For further information, **read the mod page**!
+Let's setup `Serio's Cycle Hotkeys` mod:
+- Open the mod's `MCM` and configure _setter_ hotkey as `Home` _(you can also tick `Use vanilla keys`, but we really don't see much of a difference one way or the other)_:
 
+    <img src="/images/guides_images/controller_guide/6_setup_Serios_Cycle_Hotkeys.png" alt="SCH settings" style="width:70%; height:auto;">
+
+- Press `Home` when you are in game and have weapons equipped - **the mod's dialog will pop up, where you can set your keys**. Refer to the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/27184) for detailed instructions!
+
+As for `True Directional Movement` mod - just read the note below.
 > [!NOTE]
-> A note about **Target Lock** - that settings is located in `True Directional Movement` MCM, and should be already configured - **just verify it looks like the screenshot:**
+> A note about **Target Lock** - that setting is located inside `True Directional Movement` MCM, and should be already configured - **just verify it looks like the screenshot:**
 >
-> <img src="/images/guides_images/controller_guide/6_setup_True_Directional_Movement.png" alt="TDM settings" style="width:70%; height:auto;">
+> <img src="/images/guides_images/controller_guide/7_setup_True_Directional_Movement.png" alt="TDM settings" style="width:70%; height:auto;">
 
 ## :pushpin: Final configuration 
 Your control map now looks like this:
