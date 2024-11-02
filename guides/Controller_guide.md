@@ -71,7 +71,7 @@ Anyway, your settings **should look like this**:
 `Serio's Cycle Hotkeys` mod comes with the **setter** hotkey configured as `B` _(you can remap it via MCM if you'd like)_. When you are in game and have weapons equipped, press `B` and mod's screens will come up. For further information, **read the mod page**!
 
 > [!NOTE]
-> A note about `Target Lock`: that settings is located in `True Directional Movement` MCM, and should be already configured - **just verify it looks like the screenshot:**
+> A note about **Target Lock** - that settings is located in `True Directional Movement` MCM, and should be already configured - **just verify it looks like the screenshot:**
 >
 > <img src="/images/guides_images/controller_guide/6_setup_True_Directional_Movement.png" alt="TDM settings" style="width:70%; height:auto;">
 
