@@ -15,15 +15,15 @@ Seems like a lot but it only takes a few minutes.
 
 ![image](https://github.com/user-attachments/assets/dc4e9897-f21f-4ef4-baf2-6ef01f2c94c6)
 
-Auto Input Switch allows you to freely move between keyboard and the controller.  Handy in many cases especially using OStim controls.
+**Auto Input Switch** allows you to freely move between keyboard and the controller.  Handy in many cases especially using OStim controls.
 
-The Ultimate Control Scheme (TUCS) maps the controller to functions.  Look at the mod page for more info.
+**The Ultimate Control Scheme** (TUCS) maps the controller to functions.  Look at the mod page for more info.
 
-Essential Favorites prevents favorited items from being sold, crafted, disarmed, disenchanted, or dropped.  Not really a controller mod but handy.
+**Essential Favorites** prevents favorited items from being sold, crafted, disarmed, disenchanted, or dropped.  Not really a controller mod but handy.
 
-Favorite Misc Items allows you to favorite books/soul gems/keys and other misc items.  Not really a controller mod but handy.
+**Favorite Misc Items** allows you to favorite books/soul gems/keys and other misc items.  Not really a controller mod but handy.
 
-Serios Hotkeys Allows players to map hotkeys or use the vanilla hotkeys to equip weapons, shields, shouts, and spells in the right hand, left hand, and shout/power slots.  It enables 8 Hotkeys on the controller.  Explained in TUCS
+**Serios Hotkeys** allows players to map hotkeys or use the vanilla hotkeys to equip weapons, shields, shouts, and spells in the right hand, left hand, and shout/power slots.  It enables 8 Hotkeys on the controller.  Explained in TUCS
 
 **Step 2.  Enable Controller in Skyrim**
 
@@ -37,9 +37,9 @@ Change Sneak to B.  This is necessary for The Ultimate Dodge Mod.
 
 ![image](https://github.com/user-attachments/assets/4d310faa-ad37-4df1-b143-82b3db70bb43)
 
-Switch Grip DPad UP
+Switch Grip - DPad UP
 
-Dual Wield Blocking DPAD Down
+Dual Wield Blocking - DPad Down
 
 **Step 5. Setup The Ultimate Dodge Mod (TUDM)**
 
@@ -53,7 +53,7 @@ We use Left arrow for Sneak because we use QuickLoot.  Navigating that screen wi
 
 The hotkey comes with the install as Home.  When you are in game and have weapons equipped, press Home amd its screens will come up. For that information, see the mod page.
 
-https://www.nexusmods.com/skyrimspecialedition/mods/27184
+**https://www.nexusmods.com/skyrimspecialedition/mods/27184**
 
 You are done.
 
@@ -63,40 +63,40 @@ A note about Target Lock.  That is in True Directional Movement and already conf
 
 Your configuration now looks like:
 
-Start: Journal
+**Start:** Journal
 
-Back: Wait
+**Back:** Wait
 
-LT: Left Attack
+**LT:** Left Attack
 
-RT: Right attack
+**RT:** Right attack
 
-LB+Back: Quicksave
+**LB+Back:** Quicksave
 
-RB+Start: Tween menu (character menu)
+**RB+Start:** Tween menu (character menu)
 
-LB+RB: Shout (in that order, you kinda haveta roll your fingers across them)
+**LB+RB:** Shout (in that order, you kinda haveta roll your fingers across them)
 
-LB: Looking for something to do
+**LB:** Looking for something to do
 
-RB: Sprint
+**RB:** Sprint
 
-LS: Favorites
+**LS:** Favorites
 
-RS: Switch POV
+**RS:** Switch POV/Long Press Target Lock
 
-A: Activate
+**A:** Activate
 
-B: Roll
+**B:** Roll/Dodge
 
-X: Ready weapon
+**X:** Ready weapon
 
-Y: Jump
+**Y:** Jump
 
-DPad Left: Sneak / Stop Sneaking
+**DPad Left:** Sneak / Stop Sneaking
 
-DPad Up: Switch grip between 1-handed and 2-handed (CGO)
+**DPad Up:** Switch grip between 1-handed and 2-handed (CGO)
 
-DPad Down: Dual Wield Blocking
+**DPad Down:** Dual Wield Blocking
 
-Go kill something.
+Go kill a dragon.
