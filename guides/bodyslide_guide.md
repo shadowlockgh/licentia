@@ -54,14 +54,14 @@ On the top right of the interface there will be two search bars for Filter Group
 A list will open with various groups to choose outfits for. For Female select both 3BBB and 3BA, and the related groups such DX Crimson Blood 3BA. For Male select HIMBO and it's applicable groups.
 
 
-Example Group Selections for Female and Male:
+Here are example group selections for Female and Male:
 
 <img src="/images/guides_images/bodyslide_guide/4a_group_sample.png" alt="Group Examples" style="width:30%; height:auto;"> <img src="/images/guides_images/bodyslide_guide/4a_group_sample2.png" alt="Group Examples" style="width:30%; height:auto;">
 
 Once you have your Outfits selected, you will need to select a Preset from the dropdown at the top of the interface to build your outfits with. For Female characters the default preset the list is compiled with is `3BBB Cacophony-Varied`. For Male characters, the default preset is `Himbo-Varied`.
 You can use any preset in the list or one you have downloaded, make sure you build all respective outfits to the same preset.
 
-Default Female Presets with the List's default selected:
+Here are the default Female Presets available in Licentia NEXT, with the default preset selected:
 
 <img src="/images/guides_images/bodyslide_guide/4b_preset_sample.png" alt="Preset Examples" style="width:30%; height:auto;">
 
