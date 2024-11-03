@@ -45,7 +45,7 @@ Paste your Installation Path in the Game Data path for Skyrim SE, then hit OK to
 
 On the top right of the interface there will be two search bars for Filter Groups and Filter Outfits, select the search icon for Filter Groups and select Choose Groups.
 
-<img src="/images/guides_images/bodyslide_guide/4_choose_groups.png" alt="Select Groups" style="width:50%; height:auto;">
+<img src="/images/guides_images/bodyslide_guide/4_choose_groups.png" alt="Select Groups" style="width:40%; height:auto;">
 
 > [!NOTE]
 > In the Outfit/Body dropdown list you will have two main sets of body types, 3BBB/3BA/CBBE for Female and HIMBO for Male.
