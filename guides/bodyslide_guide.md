@@ -19,12 +19,12 @@ There will be a list of options available, select Create Empty Mod.
 You will now be prompted to name your custom mod, this can be named however you want.
 
 > [!TIP]
-> Adding '[NoDelete]' before the name will make the mod not be removed upon updating the list.
+> Adding `[NoDelete]` before the name will make the mod not be removed upon updating the list.
 > Upon updating the mod will be deactivated and moved to the bottom of the last separator, and you can simply move it into place and enable it.
 
 <img src="/images/guides_images/bodyslide_guide/2_create_mod.png" alt="Name Custom Mod" style="width:30%; height:auto;">
 
-The new empty mod you made will be created under the 'Bodyslide Outputs' Separator, as long as your custom mod is below _Licentia NEXT Bodyslide Output_ your changes will override default outfits.
+The new empty mod you made will be created under the `Bodyslide Outputs` Separator, as long as your custom mod is below _Licentia NEXT Bodyslide Output_ your changes will override default outfits.
 
 ## Step 2. Run Bodyslide
 
@@ -38,7 +38,7 @@ Upon opening the program you will be prompted to select the respective game and 
 > By default SkyrimSE will have it's data checking the default Steam Installation Directory.
 > This will cause BodySlide to not access the files properly and you will see errors with textures, missing files, etc.
 
-In your Licentia NEXT Installation folder there will be a folder named Stock Game. Inside the folder you can 'Right Click' /Data, and choose 'Copy as Path'.
+In your Licentia NEXT Installation folder there will be a folder named Stock Game. Inside the folder you can `Right Click` /Data, and choose `Copy as Path`.
 Paste your Installation Path in the Game Data path for Skyrim SE, then hit OK to continue to the main interface.
 
 ## Step 3. Select your respective Outfits and Preset
@@ -53,7 +53,7 @@ On the top right of the interface there will be two search bars for Filter Group
 
 A list will open with various groups to choose outfits for. For Female select both 3BBB and 3BA, and the related groups such DX Crimson Blood 3BA. For Male select HIMBO.
 
-Once you have your Outfits selected, you will need to select a Preset to build your outfits with. For Female characters the default preset the list is compiled with is '3BBB Cacophony-Varied'. For Male characters, the default preset is 'Himbo-Varied'.
+Once you have your Outfits selected, you will need to select a Preset to build your outfits with. For Female characters the default preset the list is compiled with is `3BBB Cacophony-Varied`. For Male characters, the default preset is `Himbo-Varied`.
 You can use any preset in the list or one you have downloaded, make sure you build all respective outfits to the same preset.
 
 ## Step 4. Batch Build Outfits to the Output Mod
@@ -65,17 +65,17 @@ Tick the checkbox for the previewed outfit path, but do not tick Build Morphs.
 
 <img src="/images/guides_images/bodyslide_guide/5_batch_build.png" alt="Batch Build" style="width:50%; height:auto;">
 
-- After you have ticked the checkbox next to the preview, hold 'Left CTRL' and select Batch Build.
+- After you have ticked the checkbox next to the preview, hold `Left CTRL` and select Batch Build.
 - A list of outfits will pop up, scroll through and verify everything is correct then press Build.
 - File Explorer will now open in the Stock Game/Data directory. In the address bar click the root folder of your installation and open /Mods.
-- Find the folder for your Empty Mod that was created earlier, for example '[NoDelete] Bodyslide Output'.
+- Find the folder for your Empty Mod that was created earlier, for example `[NoDelete] Bodyslide Output`.
 
 Depending on your selections an additional menu may open for choosing Output Sets. If there is conflicting outputs selected, here you can select which alternative you want to select for example Physics versions of Outfits over Non-Physics.
 
 Make your selections then continue, and Bodyslide will convert all your selections and place them in your output.
 You can now close Bodyslide.
 
-Back in MO2 once it unlocks right click your Custom Output Mod, the error for 'No Valid Game Data' should now be resolved.
+Back in MO2 once it unlocks right click your Custom Output Mod, the error for `No Valid Game Data` should now be resolved.
 
 Tick your Output Mod to enable it, and you will have successfully built Bodyslide Overrides.
 
