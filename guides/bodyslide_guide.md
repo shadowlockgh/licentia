@@ -14,7 +14,7 @@ These are the general steps to run Bodyslide for **Licentia NEXT**:
 Scroll to the bottom of the Mod Organizer 2 Window, and right click in the blank space under Overwrite.
 There will be a list of options available, select Create Empty Mod.
 
-<img src="/images/guide_images/bodyslide_guide/1_empty_mod.png" alt="Create Empty Mods" style="width:90%; height:auto;">
+<img src="/images/guides_images/bodyslide_guide/1_empty_mod.png" alt="Create Empty Mods" style="width:90%; height:auto;">
 
 You will now be prompted to name your custom mod, this can be named however you want.
 
@@ -22,7 +22,7 @@ You will now be prompted to name your custom mod, this can be named however you 
 > Adding '[NoDelete]' before the name will make the mod not be removed upon updating the list.
 > Upon updating the mod will be deactivated and moved to the bottom of the last separator, and you can simply move it into place and enable it.
 
-<img src="/images/guide_images/bodyslide_guide/2_create_mod.png" alt="Name Custom Mod" style="width:90%; height:auto;">
+<img src="/images/guides_images/bodyslide_guide/2_create_mod.png" alt="Name Custom Mod" style="width:90%; height:auto;">
 
 The new empty mod you made will be created under the 'Bodyslide Outputs' Separator, as long as your custom mod is below _Licentia NEXT Bodyslide Output_ your changes will override default outfits.
 
@@ -30,7 +30,7 @@ The new empty mod you made will be created under the 'Bodyslide Outputs' Separat
 
 Once you have created your Output mod head over to the Top Right of MO2 to the launch section. Open the dropdown and select BodySlide x64, then run the program.
 
-<img src="/images/guide_images/bodyslide_guide/3_run_bodyslide.png" alt="Name Custom Mod" style="width:90%; height:auto;">
+<img src="/images/guides_images/bodyslide_guide/3_run_bodyslide.png" alt="Name Custom Mod" style="width:90%; height:auto;">
 
 Upon opening the program you will be prompted to select the respective game and Game Data Path.
 
