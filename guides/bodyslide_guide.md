@@ -43,13 +43,13 @@ Paste your Installation Path in the Game Data path for Skyrim SE, then hit OK to
 
 ## Step 3. Select your respective Outfits and Preset
 
-> [!NOTE]
-> In the Outfit/Body dropdown list you will have two main sets of body types, 3BBB/3BA/CBBE for Female and HIMBO for Male.
-> You will need to select the respective groups for which body you want to build, since you cannot build Male and Female simultaneously due to different presets.
-
 On the top right of the interface there will be two search bars for Filter Groups and Filter Outfits, select the search icon for Filter Groups and select Choose Groups.
 
 <img src="/images/guides_images/bodyslide_guide/4_choose_groups.png" alt="Select Groups" style="width:50%; height:auto;">
+
+> [!NOTE]
+> In the Outfit/Body dropdown list you will have two main sets of body types, 3BBB/3BA/CBBE for Female and HIMBO for Male.
+> You will need to select the respective groups for which body you want to build, since you cannot build Male and Female simultaneously due to different presets.
 
 A list will open with various groups to choose outfits for. For Female select both 3BBB and 3BA, and the related groups such DX Crimson Blood 3BA. For Male select HIMBO.
 
@@ -65,4 +65,20 @@ Tick the checkbox for the previewed outfit path, but do not tick Build Morphs.
 
 <img src="/images/guides_images/bodyslide_guide/5_batch_build.png" alt="Batch Build" style="width:50%; height:auto;">
 
+- After you have ticked the checkbox next to the preview, hold 'Left CTRL' and select Batch Build.
+- A list of outfits will pop up, scroll through and verify everything is correct then press Build.
+- File Explorer will now open in the Stock Game/Data directory. In the address bar click the root folder of your installation and open /Mods.
+- Find the folder for your Empty Mod that was created earlier, for example '[NoDelete] Bodyslide Output'.
 
+Depending on your selections an additional menu may open for choosing Output Sets. If there is conflicting outputs selected, here you can select which alternative you want to select for example Physics versions of Outfits over Non-Physics.
+
+Make your selections then continue, and Bodyslide will convert all your selections and place them in your output.
+You can now close Bodyslide.
+
+Back in MO2 once it unlocks right click your Custom Output Mod, the error for 'No Valid Game Data' should now be resolved.
+
+Tick your Output Mod to enable it, and you will have successfully built Bodyslide Overrides.
+
+---
+
+If you have any questions or problems, stop by #ln-modded-support in [Vermi's Hub Discord Server](https://discord.gg/hRCYPMpX7J) and we can help you work them out.
