@@ -51,7 +51,7 @@ On the top right of the interface there will be two search bars for Filter Group
 > In the Outfit/Body dropdown list you will have two main sets of body types, 3BBB/3BA/CBBE for Female and HIMBO for Male.
 > You will need to select the respective groups for which body you want to build, since you cannot build Male and Female simultaneously due to different presets.
 
-A list will open with various groups to choose outfits for. For Female select both 3BBB and 3BA, and the related groups such DX Crimson Blood 3BA. For Male select HIMBO.
+A list will open with various groups to choose outfits for. For Female select both 3BBB and 3BA, and the related groups such DX Crimson Blood 3BA. For Male select HIMBO and it's applicable groups.
 
 
 Example Group Selections for Female and Male:
