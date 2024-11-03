@@ -54,12 +54,15 @@ On the top right of the interface there will be two search bars for Filter Group
 A list will open with various groups to choose outfits for. For Female select both 3BBB and 3BA, and the related groups such DX Crimson Blood 3BA. For Male select HIMBO.
 
 
-Example Group Selections for Female and Male
+Example Group Selections for Female and Male:
 
 <img src="/images/guides_images/bodyslide_guide/4a_group_sample.png" alt="Group Examples" style="width:30%; height:auto;"> <img src="/images/guides_images/bodyslide_guide/4a_group_sample2.png" alt="Group Examples" style="width:30%; height:auto;">
 
 Once you have your Outfits selected, you will need to select a Preset to build your outfits with. For Female characters the default preset the list is compiled with is `3BBB Cacophony-Varied`. For Male characters, the default preset is `Himbo-Varied`.
 You can use any preset in the list or one you have downloaded, make sure you build all respective outfits to the same preset.
+
+Default Female Presets with the List's default selected:
+<img src="/images/guides_images/bodyslide_guide/4a_group_sample.png" alt="Group Examples" style="width:30%; height:auto;">
 
 ## Step 4. Batch Build Outfits to the Output Mod
 
@@ -68,7 +71,7 @@ Once you have chosen your desired outfits to build and preset, it is time to Bat
 On the bottom left of the Interface there is the button to Batch Build, Build Morphs, and select alternatives.
 Tick the checkbox for the previewed outfit path, but do not tick Build Morphs.
 
-<img src="/images/guides_images/bodyslide_guide/5_batch_build.png" alt="Batch Build" style="width:50%; height:auto;">
+<img src="/images/guides_images/bodyslide_guide/4b_preset_sample.png" alt="Batch Build" style="width:30%; height:auto;">
 
 - After you have ticked the checkbox next to the preview, hold `Left CTRL` and select Batch Build.
 - A list of outfits will pop up, scroll through and verify everything is correct then press Build.
