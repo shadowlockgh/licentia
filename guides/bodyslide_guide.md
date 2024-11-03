@@ -62,7 +62,8 @@ Once you have your Outfits selected, you will need to select a Preset to build y
 You can use any preset in the list or one you have downloaded, make sure you build all respective outfits to the same preset.
 
 Default Female Presets with the List's default selected:
-<img src="/images/guides_images/bodyslide_guide/4a_group_sample.png" alt="Group Examples" style="width:30%; height:auto;">
+
+<img src="/images/guides_images/bodyslide_guide/4b_preset_sample.png" alt="Preset Examples" style="width:30%; height:auto;">
 
 ## Step 4. Batch Build Outfits to the Output Mod
 
