@@ -53,6 +53,9 @@ On the top right of the interface there will be two search bars for Filter Group
 
 A list will open with various groups to choose outfits for. For Female select both 3BBB and 3BA, and the related groups such DX Crimson Blood 3BA. For Male select HIMBO.
 
+<img src="/images/guides_images/bodyslide_guide/4a_group_samples.png" alt="Group Examples" style="width:50%; height:auto;">
+Example Group Selections
+
 Once you have your Outfits selected, you will need to select a Preset to build your outfits with. For Female characters the default preset the list is compiled with is `3BBB Cacophony-Varied`. For Male characters, the default preset is `Himbo-Varied`.
 You can use any preset in the list or one you have downloaded, make sure you build all respective outfits to the same preset.
 
