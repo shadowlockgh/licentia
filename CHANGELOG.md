@@ -1,4 +1,10 @@
 # LICENTIA NEXT CHANGELOG
+<p align="center">
+  <a href="/README.md">Readme</a></b> |
+  <a href="/TROUBLESHOOTING.md">Troubleshooting</a> |
+  <a href="/guides/">Guides</a> |
+  <b><a href="/CHANGELOG.md">Changelog</a></b>
+</p>
 
 ## LICENTIA NEXT 13.4.0
 
@@ -75,6 +81,7 @@
   - Some helmets were missing (https://discord.com/channels/719714673431150627/1285801684924370985) - fixed by re-running bodyslide
   - Map issues (https://discord.com/channels/719714673431150627/1289321347075407882) - fixed with config (`A Clear Map of Skyrim and Other Worlds (LOD32 ini file)`)and consistency .esp  (`Licentia map consistency fix`)
   - Cows missing fluffworks shader - hid a `highlandcow.nif` from `Fixed Mesh Lightning` that was overriding Fluffworks
+  - Missing wall in Midden Cave - hiding `CaveIRWallStraight01.nif` from _Lux_ and letting the _Skyrim Remastered - Caves_ mesh win fixed the problem
 - Re-ran Nemesis
 
 ---

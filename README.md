@@ -1,5 +1,12 @@
 ![Licentia Next Logo](images/Licentia_Next_logo_v1_4k_transparent.png)
 
+<p align="center">
+  <b><a href="/README.md">Readme</a></b> |
+  <a href="/TROUBLESHOOTING.md">Troubleshooting</a> |
+  <a href="/guides/">Guides</a> |
+  <a href="/CHANGELOG.md">Changelog</a>
+</p>
+
 # Licentia NEXT
 
 ## _"All I want to be is a badass comic book hottie who fucks and cuts heads."_

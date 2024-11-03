@@ -1,5 +1,12 @@
 # :book: Guides folder
 
+<p align="center">
+  <a href="/README.md">Readme</a></b> |
+  <a href="/TROUBLESHOOTING.md">Troubleshooting</a> |
+  <b><a href="/guides/">Guides</a></b> |
+  <a href="/CHANGELOG.md">Changelog</a>
+</p>
+
 > [!NOTE]  
 > This is a folder with currently _maintained_ and _updated_ **Licentia NEXT**'s guides. Feel free to roam around!
 > 
