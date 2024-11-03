@@ -12,5 +12,5 @@
 > 
 > **IMPORTANT:** if there's something in the guide(s) that you don't quite understand, or you think that the guide(s) is wrong and you can explain us why &mdash; **please, don't hesitate to contact** me or any other _Licentia Team Member_ at our [Vermi's Hub discord server](https://discord.gg/hRCYPMpX7J), we'd look into it!
 >
-> _P.S. **If you'd like to write a new guide** - just make a PR to this repo, I'd gladly review and add it to the repo :eyes:_
+> _P.S. **If you'd like to write a new guide** - just make a PR to this repo, users contributions are very welcome :eyes:_
 ---

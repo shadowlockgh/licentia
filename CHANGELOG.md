@@ -8,7 +8,7 @@
 
 ## LICENTIA NEXT 13.4.0
 
-`TBD`
+`In progress`
 
 ## LICENTIA NEXT 13.3.2
 
