@@ -32,7 +32,7 @@ Once you have created your Output mod head over to the Top Right of MO2 to the l
 
 <img src="/images/guides_images/bodyslide_guide/3_run_bodyslide.png" alt="Run Bodyslide" style="width:70%; height:auto;">
 
-Upon opening the program you will be prompted to select the respective game and Game Data Path.
+Upon opening the program for the first time you will be prompted to select the respective game and Game Data Path.
 
 > [!WARNING]
 > By default SkyrimSE will have it's data checking the default Steam Installation Directory.
