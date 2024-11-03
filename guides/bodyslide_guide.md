@@ -72,7 +72,7 @@ Once you have chosen your desired outfits to build and preset, it is time to Bat
 On the bottom left of the Interface there is the button to Batch Build, Build Morphs, and select alternatives.
 Tick the checkbox for the previewed outfit path, but do not tick Build Morphs.
 
-<img src="/images/guides_images/bodyslide_guide/5_batch_build.png" alt="Batch Build" style="width:30%; height:auto;">
+<img src="/images/guides_images/bodyslide_guide/5_batch_build.png" alt="Batch Build" style="width:70%; height:auto;">
 
 - After you have ticked the checkbox next to the preview, hold `Left CTRL` and select Batch Build.
 - A list of outfits will pop up, scroll through and verify everything is correct then press Build.
