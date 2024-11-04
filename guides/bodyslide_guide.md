@@ -84,7 +84,7 @@ Depending on your selections an additional menu may open for choosing Output Set
 Make your selections then continue, and Bodyslide will convert all your selections and place them in your output.
 You can now close Bodyslide.
 
-Back in MO2 once it unlocks right click your Custom Output Mod, the error for `No Valid Game Data` should now be resolved.
+Back in MO2 once it unlocks right click your Custom Output Mod, after clicking the mod the error for `No Valid Game Data` should now be resolved and disappear.
 
 Tick your Output Mod to enable it, and you will have successfully built Bodyslide Overrides.
 
