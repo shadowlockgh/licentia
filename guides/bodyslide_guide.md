@@ -62,7 +62,7 @@ Here are example group selections for Female and Male outfits:
 > You do not need to select every group for building purposes, if you have the base groups selected for example 3BA or HIMBO, Bodyslide will automatically use all the groups containing the names of your selected groups.
 
 <details>
-    <summary>Note for Himbo</summary>
+    <summary>Note for building Himbo Groups</summary>
     Building Himbo will open the conflict resolution window for IA Asdafa Tweaks, if you batch build with only Himbo selected ignoring conflicts then once that is finished build with only the Asdafa Overrides group selected you can build the overrides without needing to resolve conflicts.
 </details>
 
