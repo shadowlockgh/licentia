@@ -61,6 +61,12 @@ Here are example group selections for Female and Male outfits:
 > [!NOTE]
 > You do not need to select every group for building purposes, if you have the base groups selected for example 3BA or HIMBO, Bodyslide will automatically use all the groups with matching names.
 
+<details open>
+    <summary>Note for Himbo</summary>
+    Building Himbo will open the conflict resolution window for IA Asdafa Tweaks, if you batch build with only Himbo selected then once that is finished build with only the Asdafa Overrides group selected you can build the overrides without needing to resolve conflicts.
+</details>
+
+
 Once you have your Outfits selected for the body you wish to build, you will need to select a Preset from the dropdown at the top of the interface to build your outfits with. For Female characters the default preset the list is compiled with is `3BBB Cacophony-Varied`. For Male characters, the default preset is `Himbo-Varied`.
 You can use any preset in the list or one you have downloaded, make sure you build all respective outfits to the same preset.
 
