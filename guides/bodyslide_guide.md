@@ -7,6 +7,8 @@ These are the general steps to run Bodyslide for **Licentia NEXT**:
 3. Select your respective Outfits and Preset
 4. Batch Build Outfits to the Output Mod
 
+> [!NOTE]
+> If you are going to be building both Male and Female, you will need to do Steps 3-4 twice for both body types otherwise you only need to do the process for your desired body type.
 ---
 
 ## Step 1. Create an Empty Mod
