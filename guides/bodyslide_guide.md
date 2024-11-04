@@ -59,7 +59,7 @@ Here are example group selections for Female and Male outfits:
 <img src="/images/guides_images/bodyslide_guide/4a_group_sample.png" alt="Group Examples" style="width:30%; height:auto;"> <img src="/images/guides_images/bodyslide_guide/4a_group_sample2.png" alt="Group Examples" style="width:30%; height:auto;">
 
 > [!NOTE]
-> You do not need to select every group for building purposes, if you have the base groups selected for example 3BA or HIMBO, Bodyslide will automatically use all the groups with matching names.
+> You do not need to select every group for building purposes, if you have the base groups selected for example 3BA or HIMBO, Bodyslide will automatically use all the groups containing the names of your selected groups.
 
 <details>
     <summary>Note for Himbo</summary>
