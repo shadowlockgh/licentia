@@ -63,7 +63,7 @@ Here are example group selections for Female and Male outfits:
 
 <details>
     <summary>Note for Himbo</summary>
-    Building Himbo will open the conflict resolution window for IA Asdafa Tweaks, if you batch build with only Himbo selected then once that is finished build with only the Asdafa Overrides group selected you can build the overrides without needing to resolve conflicts.
+    Building Himbo will open the conflict resolution window for IA Asdafa Tweaks, if you batch build with only Himbo selected ignoring overrides then once that is finished build with only the Asdafa Overrides group selected you can build the overrides without needing to resolve conflicts.
 </details>
 
 
