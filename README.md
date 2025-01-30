@@ -9,14 +9,14 @@
 
 # Licentia NEXT
 
-## _"All I want to be is a badass comic book hottie who fucks and cuts heads."_
+## _"Unleash Power, Indulge Desire, Leave Heads Rolling."_
 
 > [!CAUTION]
 > This Modlist contains mods with sexual content, and you must be of legal age in your country to play it (most Western countries: 18+, some Eastern ones: 21+)
 
 ## :book: Preamble
 
-_Licentia NEXT_ is a descendant to one of _Wabbajack's_ oldest and most well-regarded adult modlists &mdash; Licentia BLACK.
+**_Licentia NEXT_** is a descendant to one of _Wabbajack's_ oldest and most well-regarded adult modlists &mdash; *Licentia BLACK*.
 It features optional non-fetish content with a series of _OStim-based_ mods/quests and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy.
 
 > [!TIP]
@@ -87,14 +87,14 @@ Here's what you'll need:
 Assuming you've **completed** the [Pre-installation](#one-pre-installation) part, let's get on with the actual install!
 ### 1. Starting clean Skyrim once and downloading CC content
 1. **Make sure your Skyrim installation is clean**. If you're not sure that it is clean - that's how to make it one (or just watch [this video](https://www.youtube.com/watch?v=zQ5uNCKOKmI)).
-> [!TIP]
-> Clean Skyrim install
-> 1. **DELETE SKYRIM**:
->    - Find your game folder and delete everything;
->    - Go to Steam and delete the game there.
-> 2. Press `Win + R`, paste `%localappdata%` there, and in newly opened Explorer window delete the folder named `Skyrim Special Edition`
-> 3. Go to `'Documents\My Games\'` and delete Skyrim Special Edition there.
-> 4. Install the game via Steam as usual.
+    > [!TIP]
+    > Clean Skyrim install
+    > 1. **DELETE SKYRIM**:
+    >    - Find your game folder and delete everything;
+    >    - Go to Steam and delete the game there.
+    > 2. Press `Win + R`, paste `%localappdata%` there, and in newly opened Explorer window delete the folder named `Skyrim Special Edition`
+    > 3. Go to `'Documents\My Games\'` and delete Skyrim Special Edition there.
+    > 4. Install the game via Steam as usual.
 
 2. **Start the game once**. You'd need to do it through the Skyrim Launcher (settings there don't matter, we just need to get the game registred properly). When the Launcher starts, you'll see a popup like this:
 
@@ -105,30 +105,31 @@ Assuming you've **completed** the [Pre-installation](#one-pre-installation) part
 3. **Download AE content.** When you get to the main menu - the game would suggest you to download the AE content - click `DOWNLOAD`:
 
    <img src="images/readme_images/2_1_3_ae_content_ingame_popup.png" alt="AE popup" style="width:50%; height:auto;">
-> [!IMPORTANT]  
-> DON'T MINIMIZE THE GAME! Wait till everything is downloaded and popups stop appearing.
 
-> [!TIP]
-> If you're not sure that everything downloaded properly _(i.e. you accedentally closed the game while AE content was downloading)_ - do this:
->- Close the game and launch Skyrim from Steam again
->- Click `Creations`
->- Click `[O] Options` (at the bottom)
->- Click `Download all owned Creation Club Creations`
+    > [!IMPORTANT]  
+    > DON'T MINIMIZE THE GAME! Wait till everything is downloaded and popups stop appearing.
+
+    > [!TIP]
+    > If you're not sure that everything downloaded properly _(i.e. you accedentally closed the game while AE content was downloading)_ - do this:
+    >- Close the game and launch Skyrim from Steam again
+    >- Click `Creations`
+    >- Click `[O] Options` (at the bottom)
+    >- Click `Download all owned Creation Club Creations`
 ### 2. Creating directories and setting AV exceptions
 
 1. **Create a directory for Wabbajack.** Create a directory on the root of one of your Solid State drives (such as `D:\Wabbajack`) where you'd like to install _Wabbajack_ later on.
 2. **Create a directory for Licentia NEXT.** Now, do the same for Licentia - i.e. `D:\Licentia NEXT`.
 
 3. **Make AV exceptions.**
-> [!WARNING]  
-> Ensure you have set antivirus exceptions for:
-> - _Licentia_ folder (`D:\Licentia NEXT`)
-> - _Skyrim_ vanilla game folder (i.e. `D:\Games\Steam\steamapps\common\Skyrim Special Edition`)
-> - _Wabbajack_ folder (i.e. `D:\Wabbajack`)
-> 
-> Otherwise, the installation will fail. 
-> 
-> Certain antivirus packages do not properly respect exceptions and cannot be fully disabled (_Webroot_ and _Bitdefender_ are examples of these). These tools **must be uninstalled** from your system.
+    > [!WARNING]  
+    > Ensure you have set antivirus exceptions for:
+    > - _Licentia_ folder (`D:\Licentia NEXT`)
+    > - _Skyrim_ vanilla game folder (i.e. `D:\Games\Steam\steamapps\common\Skyrim Special Edition`)
+    > - _Wabbajack_ folder (i.e. `D:\Wabbajack`)
+    > 
+    > Otherwise, the installation will fail. 
+    > 
+    > Certain antivirus packages do not properly respect exceptions and cannot be fully disabled (_Webroot_ and _Bitdefender_ are examples of these). These tools **must be uninstalled** from your system.
 
 ### 3. Installing and configuring Wabbajack
 1. **Get the Wabbajack app.** Download latest `Wabbajack.exe` [here](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and save it to Wabbajack folder we created earlier (i.e. `D:\Wabbajack`).
@@ -165,21 +166,21 @@ Assuming you've **completed** the [Pre-installation](#one-pre-installation) part
     <img src="images/readme_images/2_4_4_wabbajack_start_installation.png" alt="WJ start install" style="width:70%; height:auto;">
 
     **This would begin the actual download and installation of the list.**
-> [!NOTE]  
-> Depending on your system specs, the download and installation process can take a **long time**.
+    > [!NOTE]  
+    > Depending on your system specs, the download and installation process can take a **long time**.
 
-> [!TIP]
-> There are many different scenarios where _Wabbajack_ will produce an **error**.
-> 
-> **General advice** - re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the minimum necessary to get the modlist working.
->
-> You can find most common issues below.
->---
->| Issue | Solution |
->| :--- | :--- |
->| **Various files beginning with `cc` and ending with `esl` or `esm` failed to download** | You did not purchase the [$20 upgrade to Skyrim](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/), and this is not negotiable. Purchase it, verify it, delete it and re-download it if necessary, and try again. | 
->| **Could not download X** | Some Internet providers have difficulty accessing the servers hosting the list's files. Use a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, delete all corrupt local copies before trying again. |
->| **Wabbajack could not find my game folder** | _Licentia NEXT_ will not work with a GOG or pirated game version. If you own the game on _Steam,_ return to the Installation step. If this still doesn't work, ensure you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.** |
+    > [!TIP]
+    > There are many different scenarios where _Wabbajack_ will produce an **error**.
+    > 
+    > **General advice** - re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the minimum necessary to get the modlist working.
+    >
+    > You can find most common issues below.
+    >---
+    >| Issue | Solution |
+    >| :--- | :--- |
+    >| **Various files beginning with `cc` and ending with `esl` or `esm` failed to download** | You did not purchase the [$20 upgrade to Skyrim](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/), and this is not negotiable. Purchase it, verify it, delete it and re-download it if necessary, and try again. | 
+    >| **Could not download X** | Some Internet providers have difficulty accessing the servers hosting the list's files. Use a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, delete all corrupt local copies before trying again. |
+    >| **Wabbajack could not find my game folder** | _Licentia NEXT_ will not work with a GOG or pirated game version. If you own the game on _Steam,_ return to the Installation step. If this still doesn't work, ensure you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.** |
 
 ---
 
@@ -210,8 +211,8 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 
 4. Wait for the process to complete. It can take quite some time.
 
-> [!IMPORTANT]
-> You **MUST** receive a popup webpage that is **BLANK** with **ZERO ERRORS** or you will have horribly weird bugs and crashes that are impossible to troubleshoot.
+    > [!IMPORTANT]
+    > You **MUST** receive a popup webpage that is **BLANK** with **ZERO ERRORS** or you will have horribly weird bugs and crashes that are impossible to troubleshoot.
 
 5. If you received **ANY** errors you **MUST** reinstall the list with the `Overwrite` checkbox selected. Do not worry, it will not redo everything. _Wabbajack_ can scan itself to see what's wrong and repair only what needs to be repaired.
 
@@ -226,52 +227,55 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 
     <img src="images/readme_images/3_2_3_mo2_run_the_game.png" alt="MO2 run" style="width:50%; height:auto;">
 
-> [!TIP]  
-> Wabbajack auto-detects and sets your **game resolution**, but if you wish to change your game's resolution **manually**, select the `INI Editor` from the `Tools` menu along the icon bar of MO2:
-> 
->    <img src="images/readme_images/3_2_3_mo2_change_resolution.png" alt="MO2 ini editor" style="width:50%; height:auto;">
-> 
-> Select `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, the HEIGHT is listed BEFORE the WIDTH:
-> 
->    <img src="images/readme_images/3_2_3_mo2_change_resolution_skyrimprefs.png" alt="MO2 skyrimperfs" style="width:40%; height:auto;">
-> 
-> Hit `Save` at the bottom, and you're done!
+    > [!TIP]  
+    > Wabbajack auto-detects and sets your **game resolution**, but if you wish to change your game's resolution **manually**, select the `INI Editor` from the `Tools` menu along the icon bar of MO2:
+    > 
+    >    <img src="images/readme_images/3_2_3_mo2_change_resolution.png" alt="MO2 ini editor" style="width:50%; height:auto;">
+    > 
+    > Select `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, the HEIGHT is listed BEFORE the WIDTH:
+    > 
+    >    <img src="images/readme_images/3_2_3_mo2_change_resolution_skyrimprefs.png" alt="MO2 skyrimperfs" style="width:40%; height:auto;">
+    > 
+    > Hit `Save` at the bottom, and you're done!
 
 4. Wait untill the game loads, **it might take a while!** 
-> [!NOTE]  
-> There's a game of `Flappy Dragon` that opens up while your Skyrim is loading:
-> 
->    <img src="images/readme_images/3_2_4_flappy_dragon.png" alt="Flappy Dragon" style="width:50%; height:auto;">
-> 
-> Don't worry, _you didn't just download 500 GB of Flappy Dragon_!
-> It's there just to brighten up the waiting time :dragon_face:
+    > [!NOTE]  
+    > There's a game of `Flappy Dragon` that opens up while your Skyrim is loading:
+    > 
+    >    <img src="images/readme_images/3_2_4_flappy_dragon.png" alt="Flappy Dragon" style="width:50%; height:auto;">
+    > 
+    > Don't worry, _you didn't just download 500 GB of Flappy Dragon_!
+    > It's there just to brighten up the waiting time :dragon_face:
 
 **When you're in the main Skyrim menu** &mdash; proceed to the next step.
 
-### 3. Starting a save and configuring MCMs for the Modlist in-game
+### 3. Starting a save and letting the list configure itself
 
 1. **Start the game** &mdash; in main menu as normal by pressing `New Game`
-2. **Create & Name Your Character** &mdash; choose your character’s appearance and name.
-3. **Wait for Mod Initialization**
-> [!CAUTION]
-> WHEN YOU SPAWN IN, **DO NOT TOUCH ANYTHING!**
-> As much as possible, try to remain still in game and not open menus while the MCM setup is in progress.
->
-> After gaining control of your character, wait. Mods will initialize &mdash; **wait for all of the messages in the upper left corner of the screen to appear and disappear**. A warning will be issued that this readme is mandatory for proper installation. Click through and continue to wait untill you get this pop-up saying `Museum List Building Complete`:
->
-> <img src="images/readme_images/3_3_3_museum_list_popup.png" alt="Museum build list complete" style="width:50%; height:auto;">
->
-> Click `OK` and proceed to next step.
+2. **Create & name your character** &mdash; choose your character’s appearance and name.
+3. **Wait for mod initialization and list auto-configuration**
+    > [!NOTE]  
+    > Since `13.4.0` Licentia NEXT has a **fully automated** list configuration process thanks to our own amazing @ninjawaffle!. It will still take some time to complete, but you won't have to do anything manually.
 
-4. **Play MCM Recording.** When all of the messages have disappeared:
-   - Open the Main Menu with the `ESC` key and find the entry labeled `"MCM Recorder"` (They are in alphabetical order.) 
-   - Here, you will find an recording labeled `Licentia NEXT main recording`.
-   - Click on it, answer `Yes`, and use `ESC` to back out of all menus. 
-   - You will receive a popup asking if you wish to play the recording &mdash; please do so.
-   - Once again, please wait for all of the messages in the upper left corner of the screen to appear and disappear.
+    > [!CAUTION]
+    > WHEN YOU SPAWN IN, **YOU WON'T BE ABLE TO CONTROL YOUR CHARACTER UNTILL THE LIST HAS FINISHED IT'S AUTO-CONFIGURATION!**
 
-5. Save your game, exit the game **COMPLETELY TO THE DESKTOP**, start it again via MO2 as described above, and load that save.
-6. That's it! Your modlist is configured :birthday:
+    - You will be greeted with this pop-up message:
+
+        <img src="images/readme_images/3_3_3_greetings_message.png" alt="Museum build list complete" style="width:50%; height:auto;">
+
+    - Read it, click `OK` and wait. The list will now **auto-configure itself**!
+        > [!WARNING]
+        > **This may take a while**, depending on your PC _(from 5 minutes on fast PCs to 20 on slow ones)_. Don't worry, it's normal, just wait.
+
+    - When the auto-configuration is done, you'll see this pop-up message:
+
+        <img src="images/readme_images/3_3_3_auto_config_finished.png" alt="Museum build list complete" style="width:50%; height:auto;">
+
+    - Read it for basic start tips, just click `OK` and you're good to go &mdash; **THE LIST IS COMPLETELY CONFIGURED NOW!**
+
+5. Save your game by pressing `F5` or from the menu, exit the game **COMPLETELY TO THE DESKTOP**, start it again via MO2 as described above in step 3, and load that save.
+6. That's it! Go play the game already :birthday:
 
 ## :hearts: Final Notes
 
