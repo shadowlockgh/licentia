@@ -8,7 +8,7 @@
 
 ## LICENTIA NEXT 13.4.0
 
-:no_entry: **NOT SAVE SAFE** with **Licentia BLACK 13.3.0/13.3.1/13.3.2**
+:no_entry: **NOT SAVE SAFE** with **Licenta NEXT 13.3.2** _(and any older Licentia BLACK)_
 
 **Added:**
 - `Hunters Not Bandits` - 4.1 (because in was removed from USMP and now installed separately)
