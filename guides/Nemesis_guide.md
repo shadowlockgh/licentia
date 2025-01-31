@@ -71,9 +71,11 @@ Open your `MO2`, in top right corner of the window, click on the dropdown menu a
 > [!TIP]
 > It's the default list for Licentia NEXT, if you have any additional mods that require Nemesis and provide a patch, make sure to tick them as well.
 
-2. Click `Update Engine` and wait for the process to finish _(wait for the bar on the bottom to reach 100%)_. **It will take a few minutes**, so be patient:
+2. Click `Update Engine`:
     
     <img src="/images/guides_images/nemesis_guide/3_2_update_engine.png" alt="Updating Nemesis Engine" style="width:50%; height:auto;">
+
+    Wait for the process to finish _(wait for the bar on the bottom to reach 100%)_. **It will take a few minutes**, so be patient:
 
     <img src="/images/guides_images/nemesis_guide/3_2_update_engine_done.png" alt="Updating Nemesis Engine done" style="width:50%; height:auto;">
 
