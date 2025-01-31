@@ -121,10 +121,10 @@ Open your `MO2`, in top right corner of the window, click on the dropdown menu a
 <details>
    <summary>:information_source: Here's some additional troubleshooting steps just in case</summary>
 
-Sometimes it will never complete regardless of how many times you try and additional troubleshooting is needed.
+Sometimes this step will never complete regardless of how many times you try and additional troubleshooting is needed.
 There are still options to fix this however! 
-1. Find the `Licentia NEXT - Nemesis Output` mod on the left, open it in explorer and delete **every file located inside,** then **refresh MO2** by striking the `F5` key.
-2. Ensure that your `Licentia NEXT - Nemesis Output` folder is still empty and launch _Nemesis_ a final time. It will prompt for your language - make certain that it is English - and you will need to check all the proper boxes again. Then update and run the tool once more.
+1. Find the `Licentia NEXT - Nemesis Output` mod on the left pane in MO2, open it in explorer and delete **every file located inside,** then **refresh MO2** by striking the `F5` key.
+2. Ensure that your `Licentia NEXT - Nemesis Output` folder is still empty and launch _Nemesis_ a final time. It will prompt for your language - make certain that it is English - and you will need to check all the proper boxes again as in [step 3](#step-three--setup-behavior-patches-and-click-update-engine). Then do next part of [step 3](#step-three--setup-behavior-patches-and-click-update-engine) and [step 4](#step-four--click-launch-nemesis-engine) once more.
 3. If this **STILL** does not work, you must reset all default behavior files by reinstalling the mod `Project New Reign - Nemesis Unlimited Behavior Engine - BLACK Profile` under the **SFW Animations** section of MO2. You can do this by simply right-clicking on it and choosing `Reinstall`. There shouldn't be any options you need to configure. It should be almost guaranteed to work this time. If it doesn't, I am stumped, and you will need to resort to Google.
 4. Once you do finish running _Nemesis_ successfully, **refresh MO2** with the `F5` key.
 
@@ -133,7 +133,7 @@ There are still options to fix this however!
 ## Step :five: &mdash; Close the tool, remove `FNIS.esp`, done!
 1. As the tool is now closed, in right MO2 pane in `Plugins` section you'll see that a wild `FNIS.esp` appeared at the end!
 
-    <img src="/images/guides_images/nemesis_guide/5_1_fnis_in_plugins.png" alt="Wild FNIS.esp" style="width:50%; height:auto;">
+    <img src="/images/guides_images/nemesis_guide/5_1_fnis_in_plugins.png" alt="Wild FNIS.esp" style="width:30%; height:auto;">
 
 2. We don't need it, so:
    
