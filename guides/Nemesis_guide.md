@@ -37,12 +37,15 @@ These are the general steps to **re-running Nemesis** for **Licentia NEXT**:
     <img src="/images/guides_images/nemesis_guide/1_2_LAA_add_file.png" alt="Adding file to LAA" style="width:60%; height:auto;">
     
     <img src="/images/guides_images/nemesis_guide/1_3_LAA_select_nemesis_exe.png" alt="Selecting nemesis exe for LAA" style="width:60%; height:auto;">
+
 5. Now in `LAA` window, click on the tickbox next to `Nemesis Unlimited Behavior Engine.exe` _(1)_, then open `With Selected` menu _(2)_ and click `Force Large Address Aware` _(3)_:
     
     <img src="/images/guides_images/nemesis_guide/1_4_LAA_add_flag_to_nemesis.png" alt="Setting LAA flag" style="width:60%; height:auto;">
+
 6. Now on the right side of the window make sure that field `LAA` is set to `True`:
     
     <img src="/images/guides_images/nemesis_guide/1_5_LAA_flag_added.png" alt="Checking LAA flag" style="width:50%; height:auto;">
+
 7. Close the program, you're done! Proceed to next step.
    
 ## Step :two: &mdash; Launch `Nemesis Unlimited Behavior Engine` from MO2
@@ -66,6 +69,8 @@ Open your `MO2`, in top right corner of the window, click on the dropdown menu a
    - Retimed Hit Frame
    - The Ultimate Dodge Mod
 
+    That's where you should tick them:
+    
     <img src="/images/guides_images/nemesis_guide/3_1_select_patches.png" alt="Selecting Nemesis patches" style="width:60%; height:auto;">
 
 > [!TIP]
