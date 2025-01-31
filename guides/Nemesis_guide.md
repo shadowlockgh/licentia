@@ -126,12 +126,14 @@ There are still options to fix this however!
 
     <img src="/images/guides_images/nemesis_guide/5_1_fnis_in_plugins.png" alt="Wild FNIS.esp" style="width:50%; height:auto;">
 
-2. We don't need it, so right-click it, select `Open Origin in Explorer`, and the delete the `FNIS.esp` in the opened explorer window:
+2. We don't need it, so:
+   
+   - Right-click it, select `Open Origin in Explorer`:
 
+    <img src="/images/guides_images/nemesis_guide/5_1_fnis_open_origin.png" alt="FNIS.esp open origin" style="width:30%; height:auto;">
 
-    <img src="/images/guides_images/nemesis_guide/5_1_fnis_open_origin.png" alt="FNIS.esp open origin" style="width:20%; height:auto;">
-
-
+   - Delete the `FNIS.esp` in the opened explorer window:
+   - 
     <img src="/images/guides_images/nemesis_guide/5_1_fnis_delete.png" alt="Deleting FNIS.esp" style="width:50%; height:auto;">
 
 3. Close the folder that was opened and return to `MO2`, hit `F5` to refresh the modlist, and **that's it, you're done!** :crown:
