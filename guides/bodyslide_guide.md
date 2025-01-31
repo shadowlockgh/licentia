@@ -1,7 +1,8 @@
-# How to build Outfits in Bodyslide for Licentia NEXT
+# :womans_clothes: How to build Outfits in Bodyslide for Licentia NEXT
 
 With this process you can change your character's body preset, modify the body of new armors mods, and more.
-These are the general steps to run Bodyslide for **Licentia NEXT**:
+
+These are the general steps to run **Bodyslide** for **Licentia NEXT**:
 1. Create an Empty Mod for Outputs
 2. Run Bodyslide
 3. Select your respective Outfits and Preset

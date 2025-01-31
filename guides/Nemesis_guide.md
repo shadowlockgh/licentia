@@ -9,11 +9,13 @@ These are the general steps to **re-running Nemesis** for **Licentia NEXT**:
 
 > [!NOTE]
 > **WHY YOU MIGHT NEED THIS?**
+> 
 > You added/updated NSFW, regular or combat animations that don't work with `DAR` or `OAR`; if you don't rerun Nemesis - your characters will _T-Pose_.
+> 
 > You want to rerun Nemesis for any other reason.
 
 > [!TIP]
-> This process takes only a few minutes. Let's dive into the details!
+> :clock1: This process takes around 10 minutes. Let's dive into the details!
 
 ## Step :one: &mdash; _(optional)_ Make sure `Nemesis Unlimited Behavior Engine.exe` is LAA patched
 
@@ -40,8 +42,8 @@ These are the general steps to **re-running Nemesis** for **Licentia NEXT**:
     <img src="/images/guides_images/nemesis_guide/1_4_LAA_add_flag_to_nemesis.png" alt="Setting LAA flag" style="width:60%; height:auto;">
 6. Now on the right side of the window make sure that field `LAA` is set to `True`:
     
-    <img src="/images/guides_images/nemesis_guide/1_4_LAA_add_flag_to_nemesis.png" alt="Setting LAA flag" style="width:50%; height:auto;">
-7. Close the program, you're done!
+    <img src="/images/guides_images/nemesis_guide/1_5_LAA_flag_added.png" alt="Checking LAA flag" style="width:50%; height:auto;">
+7. Close the program, you're done! Proceed to next step.
    
 ## Step :two: &mdash; Launch `Nemesis Unlimited Behavior Engine` from MO2
 
@@ -49,6 +51,7 @@ These are the general steps to **re-running Nemesis** for **Licentia NEXT**:
 > Ensure that **all antivirus and antimalware applications are temporarily disabled**. They often prevent _Nemesis_ from completing correctly.
 
 Open your `MO2`, in top right corner of the window, click on the dropdown menu and select `Nemesis Unlimited Behavior Engine`, then click `Run`:
+
     <img src="/images/guides_images/nemesis_guide/2_1_run_nemesis_from_mo2.png" alt="Opening Nemesis in MO2" style="width:70%; height:auto;">
 
 ## Step :three: &mdash; Setup behavior patches and click `Update Engine`
@@ -63,7 +66,7 @@ Open your `MO2`, in top right corner of the window, click on the dropdown menu a
    - Retimed Hit Frame
    - The Ultimate Dodge Mod
 
-    <img src="/images/guides_images/nemesis_guide/3_1_select_patches.png" alt="Selecting Nemesis patches" style="width:70%; height:auto;">
+    <img src="/images/guides_images/nemesis_guide/3_1_select_patches.png" alt="Selecting Nemesis patches" style="width:60%; height:auto;">
 
 > [!TIP]
 > It's the default list for Licentia NEXT, if you have any additional mods that require Nemesis and provide a patch, make sure to tick them as well.
@@ -96,7 +99,7 @@ Open your `MO2`, in top right corner of the window, click on the dropdown menu a
 > Please note (cause I've been asked about this a few times) - **the real progress bar** is AT THE BOTTOM!
 >
 > **The bar on top** (under patches) is just showing the amount of animations that you have.
-> It's ok for it to turn red, just make sure it doesn't exceed the limit (i.e. reach fully to the right)
+> It's ok for it to turn **RED**, just make sure it doesn't exceed the limit (i.e. reach _fully_ to the right)
 
 2. When you see that the engine is fully done (bar at the bottom reaches 100% and disappears, and the log says `Behavior generation complete`) - close `Nemesis` and return to `MO2`.
 
@@ -107,7 +110,7 @@ Open your `MO2`, in top right corner of the window, click on the dropdown menu a
 > But don't worry! You can just relaunch it and start from [step 3](#step-three--setup-behavior-patches-and-click-update-engine), it won't break anything.
 
 <details>
-   <summary>:information_source: **Here's some additional troubleshooting steps just in case**</summary>
+   <summary>:information_source: Here's some additional troubleshooting steps just in case</summary>
 
 Sometimes it will never complete regardless of how many times you try and additional troubleshooting is needed.
 There are still options to fix this however! 
@@ -125,7 +128,9 @@ There are still options to fix this however!
 
 2. We don't need it, so right-click it, select `Open Origin in Explorer`, and the delete the `FNIS.esp` in the opened explorer window:
 
-    <img src="/images/guides_images/nemesis_guide/5_1_fnis_open_origin.png" alt="FNIS.esp open origin" style="width:30%; height:auto;">
+
+    <img src="/images/guides_images/nemesis_guide/5_1_fnis_open_origin.png" alt="FNIS.esp open origin" style="width:20%; height:auto;">
+
 
     <img src="/images/guides_images/nemesis_guide/5_1_fnis_delete.png" alt="Deleting FNIS.esp" style="width:50%; height:auto;">
 
