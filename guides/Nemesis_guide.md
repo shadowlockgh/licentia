@@ -32,10 +32,12 @@ These are the general steps to **re-running Nemesis** for **Licentia NEXT**:
     
     <img src="/images/guides_images/nemesis_guide/1_1_run_LAA.png" alt="Running LAA" style="width:60%; height:auto;">
 
-4. When the program is opened, click `Add` -> `Files` and navigate to `Nemesis Unlimited Behavior Engine.exe` in your MO2 mods folder (it would be something like `%your_LN_install_path%\mods\Project New Reign - Nemesis Unlimited Behavior Engine - BLACK Profile\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`), and click `Open`:
+4. When the program is opened, click `Add` -> `Files`:
     
     <img src="/images/guides_images/nemesis_guide/1_2_LAA_add_file.png" alt="Adding file to LAA" style="width:60%; height:auto;">
     
+    Navigate to `Nemesis Unlimited Behavior Engine.exe` in your MO2 mods folder (it would be something like `%your_LN_install_path%\mods\Project New Reign - Nemesis Unlimited Behavior Engine - BLACK Profile\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`), and click `Open`:
+
     <img src="/images/guides_images/nemesis_guide/1_3_LAA_select_nemesis_exe.png" alt="Selecting nemesis exe for LAA" style="width:60%; height:auto;">
 
 5. Now in `LAA` window, click on the tickbox next to `Nemesis Unlimited Behavior Engine.exe` _(1)_, then open `With Selected` menu _(2)_ and click `Force Large Address Aware` _(3)_:
@@ -70,7 +72,7 @@ Open your `MO2`, in top right corner of the window, click on the dropdown menu a
    - The Ultimate Dodge Mod
 
     That's where you should tick them:
-    
+
     <img src="/images/guides_images/nemesis_guide/3_1_select_patches.png" alt="Selecting Nemesis patches" style="width:60%; height:auto;">
 
 > [!TIP]
