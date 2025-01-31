@@ -57,7 +57,7 @@ These are the general steps to **re-running Nemesis** for **Licentia NEXT**:
 
 Open your `MO2`, in top right corner of the window, click on the dropdown menu and select `Nemesis Unlimited Behavior Engine`, then click `Run`:
 
-    <img src="/images/guides_images/nemesis_guide/2_1_run_nemesis_from_mo2.png" alt="Opening Nemesis in MO2" style="width:70%; height:auto;">
+<img src="/images/guides_images/nemesis_guide/2_1_run_nemesis_from_mo2.png" alt="Opening Nemesis in MO2" style="width:70%; height:auto;">
 
 ## Step :three: &mdash; Setup behavior patches and click `Update Engine`
 
