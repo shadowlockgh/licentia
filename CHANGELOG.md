@@ -51,6 +51,7 @@
 - `Mu Joint Fix` - 2.1.2 + OStim patch
 - `Heels Fix` - 1.9
 - `Modex - A Mod Explorer Menu` - 1.1.3
+- `Vigilant Armor HIMBO Refit` - 2.0.4
 - SMP stuff:
 	- `FSMP - Faster HDT-SMP` - 2.5.1 (+ XMLs for SSE)
 	- `SMP-NPC crash fix` - 1.0

@@ -255,14 +255,14 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 2. **Create & name your character** &mdash; choose your character’s appearance and name.
 3. **Wait for mod initialization and list auto-configuration**
 > [!NOTE]  
-> Since `13.4.0` Licentia NEXT has a **fully automated** list configuration process thanks to our own amazing @ninjawaffle! It will still take some time to complete, but you won't have to do anything manually.
+> Since `13.4.0` Licentia NEXT has a **fully automated** list configuration process thanks to our own amazing [@ninjawaffle](https://next.nexusmods.com/profile/ninjawaffle1?gameId=1704)! It will still take some time to complete, but you won't have to do anything manually.
 
 > [!CAUTION]
 > When you spawn in after character creation, **YOU WON'T BE ABLE TO CONTROL YOUR CHARACTER UNTILL THE LIST HAS FINISHED IT'S AUTO-CONFIGURATION!**
 
  - You will be greeted with this pop-up message:
 
-     <img src="images/readme_images/3_3_3_greetings_message.png" alt="Museum build list complete" style="width:50%; height:auto;">
+     <img src="images/readme_images/3_3_3_greetings_message.png" alt="Greetings message from automation script" style="width:50%; height:auto;">
 
  - Read it, click `OK` and wait. The list will now **auto-configure itself**!
 > [!WARNING]
@@ -270,7 +270,7 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 
  - When the auto-configuration is done, you'll see this pop-up message:
 
-     <img src="images/readme_images/3_3_3_auto_config_finished.png" alt="Museum build list complete" style="width:50%; height:auto;">
+     <img src="images/readme_images/3_3_3_auto_config_finished.png" alt="Finished message from automation script" style="width:50%; height:auto;">
 
  - Read it for basic start tips, just click `OK` and you're good to go &mdash; **THE LIST IS COMPLETELY CONFIGURED NOW!**
 

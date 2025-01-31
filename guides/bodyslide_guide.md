@@ -11,7 +11,7 @@ These are the general steps to run Bodyslide for **Licentia NEXT**:
 > If you are going to be building both Male and Female, **you will need to do _Steps 3-4_ twice** for both body types otherwise you only need to do the process for your desired body type.
 ---
 
-## Step 1. Create an Empty Mod
+## Step :one: &mdash; Create an Empty Mod
 
 Scroll to the bottom of the _Mod Organizer 2_ Window, and right click in the blank space under `Overwrite`.
 There will be a list of options available, select `Create Empty Mod`.
@@ -28,7 +28,7 @@ You will now be prompted to name your custom mod, this can be named however you 
 
 The new empty mod you made will be created under the `Bodyslide Outputs` Separator, as long as your custom mod is below _Licentia NEXT Bodyslide Output_ your changes will override default outfits.
 
-## Step 2. Run Bodyslide
+## Step :two: &mdash; Run Bodyslide
 
 Once you have created your Output mod head over to the Top Right of MO2 to the launch section. Open the dropdown and select BodySlide x64, then run the program.
 
@@ -43,7 +43,7 @@ Upon opening the program for the first time you will be prompted to select the r
 In your Licentia NEXT Installation folder there will be a folder named Stock Game. Inside the folder you can `Right Click` /Data, and choose `Copy as Path`.
 Paste your Installation Path in the Game Data path for Skyrim SE, then hit OK to continue to the main interface.
 
-## Step 3. Select your respective Outfits and Preset
+## Step :three: &mdash; Select your respective Outfits and Preset
 
 On the top right of the interface there will be two search bars for Filter Groups and Filter Outfits, select the search icon for Filter Groups and select Choose Groups.
 
@@ -76,7 +76,7 @@ For example here are the default Female Presets available in Licentia NEXT, with
 
 <img src="/images/guides_images/bodyslide_guide/4b_preset_sample.png" alt="Preset Examples" style="width:30%; height:auto;">
 
-## Step 4. Batch Build Outfits to the Output Mod
+## Step :four: &mdash; Batch Build Outfits to the Output Mod
 
 Once you have chosen your desired outfits to build for your selected body and preset, it is time to Batch Build the outfits to your output.
 
