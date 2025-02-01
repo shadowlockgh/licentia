@@ -67,6 +67,7 @@
 - `Nibbles' animations for Ostim Standalone` - 2.2.0
 - `Optimised Scripts for Archery Gameplay Overhaul SE` - 1.0
 - `No Opposite Gender Animations NG` - 1.1
+- `Jump Slide Fix OAR` - 1.0 (+ all it's optionals merged in main mod)
 - `Dismemberment Framework` - 1.0.6 (+ it's asset packs, 3ba, himbo, CC bone wolf and Wolves of Skyrim)
 - `Precision` - 2.0.4
 - `ninjawaffle's Licentia Script Hub` - 1.0 (thank you @ninjawaffle !)
