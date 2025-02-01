@@ -68,6 +68,7 @@
 - `Optimised Scripts for Archery Gameplay Overhaul SE` - 1.0
 - `No Opposite Gender Animations NG` - 1.1
 - `Jump Slide Fix OAR` - 1.0 (+ all it's optionals merged in main mod)
+- `Another Jump Animation - OAR` - 1.0
 - `Dismemberment Framework` - 1.0.6 (+ it's asset packs, 3ba, himbo, CC bone wolf and Wolves of Skyrim)
 - `Precision` - 2.0.4
 - `ninjawaffle's Licentia Script Hub` - 1.0 (thank you @ninjawaffle !)
@@ -96,7 +97,11 @@
 	- `There is No Umbra - Chapter III` - 1.12
 	  - added Lux patch 
 	  - "Daumbra Exclude" json settings are added to our default IED preset
-  
+	- `Serana Re-Imagined` - 2.0
+	  - `Hood Plus Hair for Serana Re-Imagined` - 2.0b
+	  - `Glowing Eyes for Serana Re-Imagined` - 1.2
+	- `Milfactory Remastered - Valerica` - 1.2FE (+ `Milfactory Asset Hub - CBBE - CBBE Special - 3BA` - 2.2)
+	- `slightly Better Dust aka Dust not Clouds` - 1.0
 
 **Removed:**
 - `Script Optimization and Fixes Compilation` - 1.3.3 (not needed as of USMP 2.6.4+)
@@ -114,6 +119,7 @@
 - `Compatibility patch for AGO and XP32` - it was outdated, not needed with IED
 - `Maximum Carnage` (+ it's 3BA conversion and skeleton files)
 - `Meeko Reborn` and `Vigilance Reborn` (+ their Attack Dogs patches) - Attack Dogs already overhaul them enough, and that's 2 free slots right there
+- `Seranaholic 1.5 High Poly Head Conversion` and `Valerica by rxkx22 - SSE` - replaced with `Serana Re-Imagined` and `Milfactory Remastered - Valerica`
 - From suggestions:
 	- `JS Rumpled Rugs SE`
 	- `Indecent Exposure`
@@ -227,6 +233,7 @@
 - [Link to bug](https://discord.com/channels/1201567388248834108/1320452065138442370) - updated `Licentia NEXT Experience INI` to 3.5 config template of Experience NG
 - [Link to bug](https://discord.com/channels/1201567388248834108/1307528669677486100) - added `Dragon Stalking Fix`, thanks for the suggestion
 - Finally removed Serana's gargoyle for good
+- Replaced `Quiet Better Jumping for CGO` with correct version - `Quiet Better Jumping for CGO - Audio Overhaul - Immersive Sounds Integration`
 - Updated MCM Recordings (new mods + disabled NPC initiated smooches for Smooches of Skyrim, changed TUDM sneak key to LCtrl)
 - Updated controls and hotkey reminder, press `F11` if you're lost:
 	- Sprint - `LShift` instead of `LAlt`
