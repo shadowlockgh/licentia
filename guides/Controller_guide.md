@@ -22,11 +22,15 @@ Here's a **brief description** of these mods:
 
 - **The Ultimate Control Scheme** (or `TUCS`) maps the controller to functions. Look at the mod's page for more info.
 
+- **Licentia NEXT - The Ultimate Control Scheme patch** changes **keyboard** setup of `TUCS` to be compatible with the default Licentia NEXT's keyboard controls.
+
 - **Essential Favorites** prevents favorite items from being sold, crafted, disarmed, disenchanted, or dropped. Not _really_ a controller mod but handy.
 
 - **Favorite Misc Items** allows you to favorite books/soul gems/keys and other misc items. Also not really a controller mod, but again - handy!
 
 - **Serio's Cycle Hotkeys** allows players to map hotkeys or use the vanilla hotkeys to equip weapons, shields, shouts, and spells in the right hand, left hand, and shout/power slots. It enables **8** Hotkeys on the controller. Explained at [TUCS modpage](https://www.nexusmods.com/skyrimspecialedition/mods/29381).
+
+- **Wait Menu Redirected AE Support** makes the wait menu only able to open inside tween menu, in order to free the usage of wait button outside menu mode for gamepad.
 
 ## Step :two: &mdash; Enable Controller in Skyrim
 
