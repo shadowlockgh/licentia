@@ -47,7 +47,7 @@
 - `IA Asdasfa - LOTD Sin7 Patch (LOTDv6)` - 1.14.0
 - `IA Asdasfa - LOTD Patch` - 1.15.0
 - `Growl - Remove Manual Revert Form (for Moonlight Tales Mini)` - 1.0
-- `Skyrim's Paraglider - ZERO` - 2.1
+- `Skyrim's Paraglider - ZERO (Plus)` - 2.1
 - `Mu Joint Fix` - 2.1.2 + OStim patch
 - `Heels Fix` - 1.9
 - `Modex - A Mod Explorer Menu` - 1.1.3
@@ -137,7 +137,7 @@
 - `powerofthree's Tweaks` - 1.12.2 -> 1.13.1
 - `Photo Mode` - 1.6 -> 1.8
 - `Subtitles` - 0.6.1 -> 0.6.2
-- `Completionist - Skyrim Completion Tracker (NG)` - 4.1.0.1 -> 4.1.0.4 (+ Added `Completionist Addons` - 2.0.3)
+- `Completionist - Skyrim Completion Tracker (NG)` - 4.1.0.1 -> 4.1.0.6 (+ Added `Completionist Addons` - 2.0.3)
 - `Functional Fearsome Fists` - 1.3 -> 2.0
 - `Spell Perk Item Distributor` - 6.0.3 -> 7.1.3
 - `DynDOLOD Resources SE 3` - Alpha-52 -> Alpha-53.1
@@ -175,11 +175,11 @@
 - `Rally's Mods - Shibui Skyrim Recolor 2K` - 1.2.3 -> 2.3
 - `wd - Taproots` - 1.1 -> 1.3
 - `Trade and Barter SE` - 2.1 -> 2.2
-- `SPID - NFF - Add Ignore Token to CustomAI Followers` - 1.0.30 -> 1.0.39
+- `SPID - NFF - Add Ignore Token to CustomAI Followers` - 1.0.30 -> 1.0.40
 - `Song of the Green (Auri Follower)` - 1.4 -> 2.0.1
 - `Song of the Green - Auri Lenka Replacer SE` - 1.1 -> 2.0 (+ updated patches)
-- `Xelzaz Follower Core` - 1.11.2 -> 1.12.3
-- `Xelzaz Follower HD Texture Pack` - 1.11 -> 1.12.0
+- `Xelzaz Follower Core` - 1.11.2 -> 1.13.0
+- `Xelzaz Follower HD Texture Pack` - 1.11 -> 1.13.0
 - `Xelzaz Anniversary Edition Plugin` - 1.10.1 -> 1.12.0
 - `LotD Visual Overhaul - updated esp` - 1.3 -> 1.4
 - `PAN_Initiates SE - esl` - 1.1 -> 1.2.1
@@ -208,7 +208,8 @@
 - `I'm Glad You're Here` - 3.3 -> 3.3.2
 - `OStim Standalone - Advanced Adult Animation Framework` - 7.3.3alpha -> 7.3.4c
 - `Open Animations 3PP` - 1.12.0-Nex -> 1.12.1-Nex
-- `Lovemaking Compendium for OStim Standalone` - 1.9 -> 1.11.1
+- `Lovemaking Compendium for OStim Standalone` - 1.9 -> 1.12
+- `Drago's Love Those Neighbours for OStim Standalone` - 1.6 -> 1.8
 - `ORomance Plus SA` - 1.64 -> 2.04
 - `ORomance Plus Open Animations Standalone Patch` - 1.61 -> 2.04
 - `Tamrielic Distribution` - 1.3.7 -> 1.4.0
@@ -235,7 +236,7 @@
 - Finally removed Serana's gargoyle for good
 - Replaced `Quiet Better Jumping for CGO` with correct version - `Quiet Better Jumping for CGO - Audio Overhaul - Immersive Sounds Integration`
 - Updated MCM Recordings (new mods + disabled NPC initiated smooches for Smooches of Skyrim, changed TUDM sneak key to LCtrl)
-- Updated controls and hotkey reminder, press `F11` if you're lost:
+- Updated controls and hotkey reminder, press `F11` if you're lost (+ added `Licentia NEXT - The Ultimate Control Scheme patch` to fix TUCS reverting our keyboard controls if TUCS is activated for controller support):
 	- Sprint - `LShift` instead of `LAlt`
 	- Run - `RAlt` instead of `LShift` _(just use `CapsLock`)_
 	- Sneak - `LAlt` instead of `LCtrl` (to be used with `TUDM` because it overwrites sneak key, in `TUDM` options sneak key is set to `LCtrl`)

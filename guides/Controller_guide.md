@@ -38,9 +38,9 @@ In standard Skyrim's **settings menu**, enable controller like this:
 
 <img src="/images/guides_images/controller_guide/2_enable_controller.png" alt="Controller enabled in settings" style="width:70%; height:auto;">
 
-## Step :three: &mdash; Change/Verify the controls
+## Step :three: &mdash; Verify the controls
 
-Change **Sneak** to `B`. This is necessary for `The Ultimate Dodge Mod`.
+Verify that **Sneak** is set to `B` *(it should be, but just in case)*. This is necessary for `The Ultimate Dodge Mod`.
 
 <img src="/images/guides_images/controller_guide/3_set_controls.png" alt="Sneak is set to B" style="width:70%; height:auto;">
 
