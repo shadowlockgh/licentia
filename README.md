@@ -267,15 +267,26 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
  - Read it, click `OK` and wait. The list will now **auto-configure itself**!
 > [!WARNING]
 > **This may take a while**, depending on your PC _(from 5 minutes on fast PCs to 20 on slow ones)_. Don't worry, it's normal, just wait.
+> 
+> You'll see mods being auto-configured in the **top-left corner** of the screen:
+> 
+> <img src="images/readme_images/3_3_3_mods_config_messages.png" alt="Mod configuration in progress" style="width:50%; height:auto;">
+> 
+> And our automatic script will send these notifications **every 15-20 seconds** to let you know that we're still in progress:
+> 
+> <img src="images/readme_images/3_3_3_our_config_messages.png" alt="Auto-configuration progress" style="width:50%; height:auto;">
 
  - When the auto-configuration is done, you'll see this pop-up message:
 
-     <img src="images/readme_images/3_3_3_auto_config_finished.png" alt="Finished message from automation script" style="width:50%; height:auto;">
+     <img src="images/readme_images/3_3_3_greetings_message.png" alt="Finished message from automation script" style="width:50%; height:auto;">
 
  - Read it for basic start tips, just click `OK` and you're good to go &mdash; **THE LIST IS COMPLETELY CONFIGURED NOW!**
+ - The last thing before you go &mdash; you'll be offered a **divine blessing** with **LVL 5** and/or **1000 gold**. Choose according to your preference:
 
-5. Save your game by pressing `F5` or from the menu, exit the game **COMPLETELY TO THE DESKTOP**, start it again via MO2 as described above in step 3, and load that save.
-6. That's it! Go play the game already :birthday:
+    <img src="images/readme_images/3_3_3_final_gift.png" alt="Divine blessing" style="width:50%; height:auto;">
+
+4. Save your game by pressing `F5` or from the menu, exit the game **COMPLETELY TO THE DESKTOP**, start it again via MO2 as described above in step 3, and load that save.
+5. That's it! Go play the game already :birthday:
 
 ## :hearts: Final Notes
 

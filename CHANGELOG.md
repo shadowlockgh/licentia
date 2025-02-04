@@ -51,7 +51,6 @@
 - `Mu Joint Fix` - 2.1.2 + OStim patch
 - `Heels Fix` - 1.9
 - `Modex - A Mod Explorer Menu` - 1.1.3
-- `Vigilant Armor HIMBO Refit` - 2.0.4
 - SMP stuff:
 	- `FSMP - Faster HDT-SMP` - 2.5.1 (+ XMLs for SSE)
 	- `SMP-NPC crash fix` - 1.0
@@ -71,7 +70,7 @@
 - `Another Jump Animation - OAR` - 1.0
 - `Dismemberment Framework` - 1.0.6 (+ it's asset packs, 3ba, himbo, CC bone wolf and Wolves of Skyrim)
 - `Precision` - 2.0.4
-- `ninjawaffle's Licentia Script Hub` - 1.0 (thank you @ninjawaffle !)
+- `ninjawaffle's Licentia Script Hub` - 1.2.0 (thank you @ninjawaffle!)
 - From suggestions:
 	- `Amorous Adventures Text and Player Dialogue Revision` - 1.3 (+ 1.3a patch)
 	- `Wait Menu Redirected AE Support` - 1.0.2AE (added per suggestions, **disabled by default**, sits in Controller Options section)
@@ -80,7 +79,6 @@
 		- `Denji - A Custom Skills Menu Update` - 1.3
 		- `Custom Skills Menu - Custom Icons` - 2.0
 		- `Custom Skills - VIGILANT` - 2.0a
-		- `VIGILANT - CSF 3 JSON` - 1.1
 	- `Media Keys Fix SKSE` - 1.0.1
 	- `Auto Audio Switch` - 1.0.3
 	- `Buzz Off - replacer for Spriggan default ambient SFX` - 1.0
@@ -187,7 +185,7 @@
 - `Missile's IED Preset` - 2.0.1 -> 3.0.3
 - `Heavy Armory - New Weapons` - 6.0.5 -> 6.1.6
 - `Hammerfell Armory SE` - 1.4.1 -> 2.0
-- `CBBE 3BA Vanilla Outfits Redone` - 3.5.3 -> 4.0.2
+- `CBBE 3BA Vanilla Outfits Redone` - 3.5.3 -> 4.1.0
 - `Immersive Armors - Asdasfa Tweaks and Fixes` - 1.14.2 - 1.15.0 (+ CBBE and HIMBO fixes)
 - `Immersive Armor HIMBO Conversion V2` - 2.2.1 -> 2.3
 - `Ebony Armors and Weapons Retexture SE` - 2.0.1 -> 2.0.2
