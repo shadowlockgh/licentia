@@ -4,7 +4,7 @@ With this process you can change your character's body preset, modify the body o
 
 > [!NOTE]
 > As of version 13.4.1 OBody has returned to Licentia NEXT, allowing random distribution of body presets to NPCs.
-This guide is primarily intended for Adding new outfits to your Licentia NEXT installation with OBody active.
+This guide is primarily intended for re-running BodySlide as it is provided with the list OR Adding new outfit mods to your NEXT installation.
 If you want to remove OBody from your installation, there is a small tutorial at the bottom of this guide following the same process with your selected preset instead of `Zeroed Sliders`.
 
 These are the general steps to run **Bodyslide** for **Licentia NEXT**:
@@ -75,7 +75,7 @@ Here are example group selections for Female and Male outfits:
 </details>
 
 
-Once you have your Outfits selected for the body you wish to build, you will need to select a Preset from the dropdown at the top of the interface to build your outfits with. For Female characters the default preset the list is compiled with is `3BBB Cacophony-Varied`. For Male characters, the default preset is `Himbo-Varied`.
+Once you have your Outfits selected for the body you wish to build, you will need to select a Preset from the dropdown at the top of the interface to build your outfits with. For Female characters the default preset the list is compiled with is `- Zeroed Sliders -`. For Male characters, the default preset is `Himbo Zero for OBody`.
 You can use any preset in the list or one you have downloaded, make sure you build all respective outfits to the same preset.
 
 For example here are the default Female Presets available in Licentia NEXT, with the default preset selected:
@@ -108,3 +108,11 @@ Tick your Output Mod to enable it, and you will have successfully built Bodyslid
 ---
 
 If you have any questions or problems, stop by the Licentia Next Category in [Vermi's Hub Discord Server](https://discord.gg/hRCYPMpX7J) and we can help you work them out!
+
+## Removing OBody from your Installation
+
+If you want to remove OBody from your installation for whatever reason you will need to follow the subsequent steps for "building out" OBody.
+1. Disable OBody in MO2. Open the `BODIES` Separator or search for `OBody` at the bottom and untick `OBody Next Generation` and `- ORefit JSON Master List`.
+2. Open Bodyslide, and repeat Steps 3-4. When it comes to selecting your preset, pick one from the list or use your own and build your outfits with your selected outfit.
+
+You will need to build **all** outfits used by the list if you remove OBody, as otherwise all outfits will remain zeroed on all sliders.
