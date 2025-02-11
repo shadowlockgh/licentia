@@ -255,7 +255,7 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 2. **Create & name your character** &mdash; choose your character’s appearance and name.
 3. **Wait for mod initialization and list auto-configuration**
 > [!NOTE]  
-> Since `13.4.0` Licentia NEXT has a **fully automated** list configuration process thanks to our own amazing [@ninjawaffle](https://next.nexusmods.com/profile/ninjawaffle1?gameId=1704)! It will still take some time to complete, but you won't have to do anything manually.
+> Since `13.4.1` Licentia NEXT has a **fully automated** list configuration process thanks to our own amazing [@ninjawaffle](https://next.nexusmods.com/profile/ninjawaffle1?gameId=1704)! It will still take some time to complete, but you won't have to do anything manually.
 
 > [!CAUTION]
 > When you spawn in after character creation, **YOU WON'T BE ABLE TO CONTROL YOUR CHARACTER UNTILL THE LIST HAS FINISHED IT'S AUTO-CONFIGURATION!**

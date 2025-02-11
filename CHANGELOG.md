@@ -6,7 +6,7 @@
   <b><a href="/CHANGELOG.md">Changelog</a></b>
 </p>
 
-## LICENTIA NEXT 13.4.0
+## LICENTIA NEXT 13.4.1 (13.4.0 is skipped for technical reasons)
 
 :no_entry: **NOT SAVE SAFE** with **Licenta NEXT 13.3.2** _(and any older Licentia BLACK)_
 
@@ -100,6 +100,8 @@
 	  - `Glowing Eyes for Serana Re-Imagined` - 1.2
 	- `Milfactory Remastered - Valerica` - 1.2FE (+ `Milfactory Asset Hub - CBBE - CBBE Special - 3BA` - 2.2)
 	- `slightly Better Dust aka Dust not Clouds` - 1.0
+	- `Murder of Songbirds` - 1.2
+	- Replaced `Positive Undressed Reactions` 1.0 with `Naked Comments Overhaul` 1.01
 
 **Removed:**
 - `Script Optimization and Fixes Compilation` - 1.3.3 (not needed as of USMP 2.6.4+)
@@ -116,6 +118,7 @@
 - `OStim Tongues no SMP patch` - not needed with SMP
 - `Compatibility patch for AGO and XP32` - it was outdated, not needed with IED
 - `Maximum Carnage` (+ it's 3BA conversion and skeleton files)
+- `Take a Peek` - buggy mod
 - `Meeko Reborn` and `Vigilance Reborn` (+ their Attack Dogs patches) - Attack Dogs already overhaul them enough, and that's 2 free slots right there
 - `Seranaholic 1.5 High Poly Head Conversion` and `Valerica by rxkx22 - SSE` - replaced with `Serana Re-Imagined` and `Milfactory Remastered - Valerica`
 - From suggestions:
@@ -128,14 +131,14 @@
 
 
 **Updated:**
-- ENB - updated to latest (v0.503 from 03-01-2025)
+- ENB - updated to latest (v0.503 from 09-02-2025)
 - `Unofficial Skyrim Special Edition Patch` - 4.3.2 -> 4.3.3
 - `Unofficial Skyrim Modder's Patch` - 2.6.3 -> 2.6.5 (2.6.4 + 2.6.5 merged over 2.6.4 per instructions)
 - `I'm Talking Here` - 1.2 -> 2.0
 - `powerofthree's Tweaks` - 1.12.2 -> 1.13.1
 - `Photo Mode` - 1.6 -> 1.8
 - `Subtitles` - 0.6.1 -> 0.6.2
-- `Completionist - Skyrim Completion Tracker (NG)` - 4.1.0.1 -> 4.1.0.6 (+ Added `Completionist Addons` - 2.0.3)
+- `Completionist - Skyrim Completion Tracker (NG)` - 4.1.0.1 -> 4.1.0.8 (+ Added `Completionist Addons` - 2.0.5)
 - `Functional Fearsome Fists` - 1.3 -> 2.0
 - `Spell Perk Item Distributor` - 6.0.3 -> 7.1.3
 - `DynDOLOD Resources SE 3` - Alpha-52 -> Alpha-53.1
@@ -151,7 +154,7 @@
 - `CoMAP - Common Marker Addon Project` - 4.1 -> 4.2.1
 - `NORDIC UI - Compass Markers Restored` - 1.4.2 -> 1.5.0
 - `Infinity UI` - 2.0.2 -> 2.0.3
-- `Atlas Map Markers` - 2.7 -> 3.0.1
+- `Atlas Map Markers` - 2.7 -> 3.0.3
 - `Dynamic Interface Patcher` - 1.0.3 -> 2.1.4
 - `QuickLoot IE - A QuickLoot EE Fork` - 2.0 -> 3.3.0
 - `Legacy of the Dragonborn SSE` - 6.6.0 -> 6.8.0
@@ -173,7 +176,7 @@
 - `Rally's Mods - Shibui Skyrim Recolor 2K` - 1.2.3 -> 2.3
 - `wd - Taproots` - 1.1 -> 1.3
 - `Trade and Barter SE` - 2.1 -> 2.2
-- `SPID - NFF - Add Ignore Token to CustomAI Followers` - 1.0.30 -> 1.0.40
+- `SPID - NFF - Add Ignore Token to CustomAI Followers` - 1.0.30 -> 1.0.41
 - `Song of the Green (Auri Follower)` - 1.4 -> 2.0.1
 - `Song of the Green - Auri Lenka Replacer SE` - 1.1 -> 2.0 (+ updated patches)
 - `Xelzaz Follower Core` - 1.11.2 -> 1.13.0
@@ -199,10 +202,9 @@
 - `Mysticism - A Magic Overhaul` - 2.2.4 -> 2.4.2
 - `Adamant - A Perk Overhaul` - 5.8.3 -> 5.9.2
 - `Path of Sorcery - Magic Perk Overhaul` - 2.7 -> 3.2
-- `Skyrim Revamped Rebalanced and Releveled` - 2.58 -> 2.59
+- `Skyrim Revamped Rebalanced and Releveled` - 2.57 -> 2.60
 - `Vokriinator Black` - 6.14.3 -> 6.15.1
-- `Skyrim Revamped Rebalanced and Releveled` - 2.57 -> 2.58
-- `Embers XD` - 2.9.4 -> 3.0.9
+- `Embers XD` - 2.9.4 -> 3.1.0
 - `I'm Glad You're Here` - 3.3 -> 3.3.2
 - `OStim Standalone - Advanced Adult Animation Framework` - 7.3.3alpha -> 7.3.4c
 - `Open Animations 3PP` - 1.12.0-Nex -> 1.12.1-Nex
@@ -221,7 +223,7 @@
 - `KR2's Kaidan NPC Overhaul` - 1.1.1 -> 1.2.4
 - `kryptopyr's Patch Hub` - 3.4 -> 4.1.2
 - `Hand Placed Enemies` -> same version, changed to `no ambushes`
-- `The New Gentleman` - 3.0.2 -> 4.0.3
+- `The New Gentleman` - 3.0.2 -> 4.0.4
 
 **Fixed/Patched:**
 - Added `Auri - Wintersun + Inigo banter fixed script patch`, which should (hopefully) fix that long standing issue. Please report if it doesn't work!
