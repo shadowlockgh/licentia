@@ -13,7 +13,7 @@ These are the general steps to set up a **controller** for **Licentia NEXT**:
 
 ---
 
-## Step 1.  Enable all mods in the Controller section of MO2
+## Step :one: &mdash; Enable all mods in the Controller section of MO2
 
 <img src="/images/guides_images/controller_guide/1_enable_controller_mods.png" alt="List of controller mods" style="width:90%; height:auto;">
 
@@ -22,25 +22,29 @@ Here's a **brief description** of these mods:
 
 - **The Ultimate Control Scheme** (or `TUCS`) maps the controller to functions. Look at the mod's page for more info.
 
+- **Licentia NEXT - The Ultimate Control Scheme patch** changes **keyboard** setup of `TUCS` to be compatible with the default Licentia NEXT's keyboard controls.
+
 - **Essential Favorites** prevents favorite items from being sold, crafted, disarmed, disenchanted, or dropped. Not _really_ a controller mod but handy.
 
 - **Favorite Misc Items** allows you to favorite books/soul gems/keys and other misc items. Also not really a controller mod, but again - handy!
 
 - **Serio's Cycle Hotkeys** allows players to map hotkeys or use the vanilla hotkeys to equip weapons, shields, shouts, and spells in the right hand, left hand, and shout/power slots. It enables **8** Hotkeys on the controller. Explained at [TUCS modpage](https://www.nexusmods.com/skyrimspecialedition/mods/29381).
 
-## Step 2.  Enable Controller in Skyrim
+- **Wait Menu Redirected AE Support** makes the wait menu only able to open inside tween menu, in order to free the usage of wait button outside menu mode for gamepad.
+
+## Step :two: &mdash; Enable Controller in Skyrim
 
 In standard Skyrim's **settings menu**, enable controller like this:
 
 <img src="/images/guides_images/controller_guide/2_enable_controller.png" alt="Controller enabled in settings" style="width:70%; height:auto;">
 
-## Step 3. Change/Verify the controls
+## Step :three: &mdash; Verify the controls
 
-Change **Sneak** to `B`. This is necessary for `The Ultimate Dodge Mod`.
+Verify that **Sneak** is set to `B` *(it should be, but just in case)*. This is necessary for `The Ultimate Dodge Mod`.
 
 <img src="/images/guides_images/controller_guide/3_set_controls.png" alt="Sneak is set to B" style="width:70%; height:auto;">
 
-## Step 4. Setup CGO
+## Step :four: &mdash; Setup CGO
 
 Open `Mod Configuration` (MCM) menu, find `CGO`, it's settings should look like this:
 
@@ -50,7 +54,7 @@ Here set:
 - **Switch Grip** - `DPad UP`
 - **Dual Wield Blocking** - `DPad Down`
 
-## Step 5. Setup The Ultimate Dodge Mod (TUDM)
+## Step :five: &mdash; Setup The Ultimate Dodge Mod (TUDM)
 
 Again, in `Mod Configuration` (MCM) menu find `The Ultimate Dodge Mod`.
 
@@ -66,7 +70,7 @@ Anyway, your settings **should look like this**:
 
 <img src="/images/guides_images/controller_guide/5_setup_The_Ultimate_Dodge_Mod.png" alt="TUDM settings" style="width:70%; height:auto;">
 
-## Step 6. Setup Serio's Cycle Hotkeys and True Directional Movement
+## Step :six: &mdash; Setup Serio's Cycle Hotkeys and True Directional Movement
 
 Let's setup `Serio's Cycle Hotkeys` mod:
 - Open the mod's `MCM` and configure _setter_ hotkey as `Home` _(you can also tick `Use vanilla keys`, but we really don't see much of a difference one way or the other)_:
