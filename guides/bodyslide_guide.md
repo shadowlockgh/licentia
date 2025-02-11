@@ -66,6 +66,9 @@ Here are example group selections for Female and Male outfits:
 
 <img src="/images/guides_images/bodyslide_guide/4a_group_sample.png" alt="Group Examples" style="width:30%; height:auto;"> <img src="/images/guides_images/bodyslide_guide/4a_group_sample2.png" alt="Group Examples" style="width:30%; height:auto;">
 
+> [!WARNING]
+> As of version 13.4.1 Dismemberment Framework has been added, and you will need to manually build `[DF] [CBBE 3BBB/Himbo] Naked Female/Male Dismembered Addons` to `Zeroed Sliders`.
+
 > [!NOTE]
 > You do not need to select every group for building purposes, if you have the base groups selected for example 3BA or HIMBO, Bodyslide will automatically use all the groups containing the names of your selected groups.
 
@@ -75,7 +78,7 @@ Here are example group selections for Female and Male outfits:
 </details>
 
 
-Once you have your Outfits selected for the body you wish to build, you will need to select a Preset from the dropdown at the top of the interface to build your outfits with. For Female characters the default preset the list is compiled with is `- Zeroed Sliders -`. For Male characters, the default preset is `Himbo Zero for OBody`.
+Once you have your Outfits selected for the body you wish to build, you will need to select a Preset from the dropdown at the top of the interface to build your outfits with. Due to the list containing OBody you will need to use the following presets respsectively for Female or Male. `- Zeroed Sliders -` for Female characters, or `Himbo Zero for OBody` for Male characters.
 You can use any preset in the list or one you have downloaded, make sure you build all respective outfits to the same preset.
 
 For example here are the default Female Presets available in Licentia NEXT, with the default preset selected:
