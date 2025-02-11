@@ -67,10 +67,17 @@ Here are example group selections for Female and Male outfits:
 <img src="/images/guides_images/bodyslide_guide/4a_group_sample.png" alt="Group Examples" style="width:30%; height:auto;"> <img src="/images/guides_images/bodyslide_guide/4a_group_sample2.png" alt="Group Examples" style="width:30%; height:auto;">
 
 > [!WARNING]
-> As of version 13.4.1 Dismemberment Framework has been added, and you will need to manually build `[DF] [CBBE 3BBB/Himbo] Naked Female/Male Dismembered Addons` to `Zeroed Sliders`.
+> As of version 13.4.1 Dismemberment Framework has been added, and you will need to manually build outfits `[DF] [CBBE 3BBB/Himbo] Naked Female/Male Dismembered Addons` to `Zeroed Sliders`/`Himbo Zero for OBody`. These two outfits will be found at the bottom of the Unassigned Group.
 
 > [!NOTE]
 > You do not need to select every group for building purposes, if you have the base groups selected for example 3BA or HIMBO, Bodyslide will automatically use all the groups containing the names of your selected groups.
+>
+> However, the group Unassigned is excluded from this search as previously detailed with building Dismemberment Framework and there is a small range of outfits for CBBE/3BBB and Himbo that must be manually selected in Unassigned. You can easily do this process by using the `Filter Outfits` search bar at the very top right next to Groups, and search for CBBE, then 3BBB and build those two sets with `Zeroed Sliders`, then search for Himbo and build those with `Himbo Zero for OBody`.
+> <details>
+>    <summary>Unassigned Group Example</summary>
+>   <img src="/images/guides_images/bodyslide_guide/4c_unassigned.png>" alt="Unassigned Example" style="width:30%;height:auto;">
+> </details>
+
 
 <details>
     <summary>Note for building Himbo Groups</summary>
