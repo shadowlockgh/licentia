@@ -122,7 +122,7 @@ If you have any questions or problems, stop by the Licentia Next Category in [Ve
 ## Removing OBody from your Installation
 
 If you want to remove OBody from your installation for whatever reason you will need to follow the subsequent steps for "building out" OBody.
-1. Disable OBody in MO2. Open the `BODIES` Separator or search for `OBody` at the bottom and untick `OBody Next Generation` and `- ORefit JSON Master List`.
+1. Disable OBody in MO2. Open the `BODIES` Separator or search for `OBody` at the bottom and untick `OBody Next Generation` and `- ORefit JSON Master List`. Additionally under the `Body Meshes (and physics)` separator there is two patch files `3BA with OBody Collision Physics Fix` and it's OSmp patch, disable both of these.
 2. Open Bodyslide, and repeat Steps 3-4. When it comes to selecting your preset, pick one from the list or use your own and build your outfits with your selected outfit.
 
 You will need to build **all** outfits used by the list if you remove OBody, as otherwise all outfits will remain zeroed on all sliders.
