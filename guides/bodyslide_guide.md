@@ -75,7 +75,7 @@ Here are example group selections for Female and Male outfits:
 > However, the group Unassigned is excluded from this search as previously detailed with building Dismemberment Framework and there is a small range of outfits for CBBE/3BBB and Himbo that must be manually selected in Unassigned. You can easily do this process by using the `Filter Outfits` search bar at the very top right next to Groups, and search for CBBE, then 3BBB and build those two sets with `Zeroed Sliders`, then search for Himbo and build those with `Himbo Zero for OBody`.
 > <details>
 >    <summary>Unassigned Group Example</summary>
->   <img src="/images/guides_images/bodyslide_guide/4c_unassigned.png>" alt="Unassigned Example" style="width:30%;height:auto;">
+>   <img src="/images/guides_images/bodyslide_guide/4c_unassigned.png" alt="Unassigned Example" style="width:30%;height:auto;">
 > </details>
 
 
