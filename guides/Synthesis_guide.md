@@ -41,11 +41,11 @@ In `MO2`, in top right corner of the window, click on the dropdown menu and sele
 
 When `Synthesis` is launched, check out the left pane with patches. They should match this:
 
-<img src="/images/guides_images/synthesis_guide/3_1_synthesis0.png" alt="Synthesis 0 patch list" style="width:70%; height:auto;">
+<img src="/images/guides_images/synthesis_guide/3_1_synthesis0.png" alt="Synthesis 0 patch list" style="width:40%; height:auto;">
 
-<img src="/images/guides_images/synthesis_guide/3_2_synthesis1.png" alt="Synthesis 1 patch list" style="width:70%; height:auto;">
+<img src="/images/guides_images/synthesis_guide/3_2_synthesis1.png" alt="Synthesis 1 patch list" style="width:40%; height:auto;">
 
-<img src="/images/guides_images/synthesis_guide/3_3_synthesis2.png" alt="Synthesis 2 patch list" style="width:70%; height:auto;">
+<img src="/images/guides_images/synthesis_guide/3_3_synthesis2.png" alt="Synthesis 2 patch list" style="width:40%; height:auto;">
 
 ## Step :four: &mdash; Run `Synthesis` 3 times
 
@@ -74,7 +74,7 @@ Now, you have to do this:
 > Adding `[NoDelete]` before the name will make the mod not be removed upon updating the list.
 > Upon updating the mod will be deactivated and moved to the bottom of the last separator, and you can simply move it into place and enable it.
 
-Now, right click on the newly created mod and select `Open in Explorer`. This will open the mod folder in your file explorer, **keep it open**.
+    Now, right click on the newly created mod and select `Open in Explorer`. This will open the mod folder in your file explorer, **keep it open**.
 
 2. In the bottom of `MO2` left pane right-click on `Overwrite` and select `Open in Explorer`. This will open the `Overwrite` folder in your file explorer. **Keep it open**.
 
