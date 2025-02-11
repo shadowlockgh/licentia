@@ -3,7 +3,9 @@
 With this process you can change your character's body preset, modify the body of new armors mods, and more.
 
 > [!NOTE]
-> As of version 13.4.1 OBody has returned to Licentia NEXT, allowing random distribution of body presets to NPCs. This guide was written when OBody was absent and is made for setting specific presets, however the process remains the same for Adding outfits to your Licentia NEXT installation. If you want to remove OBody, there is a small tutorial at the bottom of this guide.
+> As of version 13.4.1 OBody has returned to Licentia NEXT, allowing random distribution of body presets to NPCs.
+This guide is primarily intended for Adding new outfits to your Licentia NEXT installation with OBody active.
+If you want to remove OBody from your installation, there is a small tutorial at the bottom of this guide following the same process with your selected preset instead of `Zeroed Sliders`.
 
 These are the general steps to run **Bodyslide** for **Licentia NEXT**:
 1. Create an Empty Mod for Outputs
