@@ -23,7 +23,7 @@ These are the general steps to run **Bodyslide** for **Licentia NEXT**:
 At the top of the _Mod Organizer 2_ Window on the icon row next to Profile there is a button with a Wrench and Screwdriver icon, click it.
 There will be a list of options available, select `Create Empty Mod`.
 
-<img src="/images/guides_images/bodyslide_guide/1_empty_mod.png" alt="Create Empty Mods" style="width:20%; height:20%;">
+<img src="/images/guides_images/bodyslide_guide/1_empty_mod.png" alt="Create Empty Mods" style="width:40%; height:40%;">
 
 You will now be prompted to name your custom mod, this can be named however you want.
 
