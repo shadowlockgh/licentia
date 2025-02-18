@@ -12,7 +12,6 @@
   - [Gameplay](#gameplay)
     - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
     - [Leveling up is weird!](#leveling-up-is-weird)
-    - [How do I turn off headbob and / or constant subtle camera motion?](#how-do-i-turn-off-headbob-and--or-constant-subtle-camera-motion)
     - [I can't level up my skills!](#i-cant-level-up-my-skills)
     - [How do I start the Main Story Quest? I went to Helgen but it is intact!](#how-do-i-start-the-main-story-quest-i-went-to-helgen-but-it-is-intact)
     - [Certain quests (especially the Creation Club quests) will not start or complete!](#certain-quests-especially-the-creation-club-quests-will-not-start-or-complete)
@@ -58,13 +57,6 @@ The prompt to level up your skills will appear after you level up.
 **Not working?** The `Uncapper` preset prevents skills from leveling beyond your level +18, to a maximum of twice your level. If your skill won't go up any further, try gaining a level!
 
 **Skill not leveling up upon reading a skill book?** Make sure you're not at the cap, then check for any debuffs to skill gain on your magic effects tab. Take care of those, then try again.
-</details>
-
-### How do I turn off headbob and / or constant subtle camera motion?
-<details>
-  <summary>Expand</summary>
-
-You didn't run the MCM recording, because it disables the headbob effect. The list is horribly broken without that recording, so start over and please, properly read the [Readme](/README.md) document.
 </details>
 
 ### I can't level up my skills!

@@ -9,14 +9,14 @@
 
 # Licentia NEXT
 
-## _"All I want to be is a badass comic book hottie who fucks and cuts heads."_
+## _"Unleash Power, Indulge Desire, Leave Heads Rolling."_
 
 > [!CAUTION]
 > This Modlist contains mods with sexual content, and you must be of legal age in your country to play it (most Western countries: 18+, some Eastern ones: 21+)
 
 ## :book: Preamble
 
-_Licentia NEXT_ is a descendant to one of _Wabbajack's_ oldest and most well-regarded adult modlists &mdash; Licentia BLACK.
+**_Licentia NEXT_** is a descendant to one of _Wabbajack's_ oldest and most well-regarded adult modlists &mdash; *Licentia BLACK*.
 It features optional non-fetish content with a series of _OStim-based_ mods/quests and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy.
 
 > [!TIP]
@@ -105,6 +105,7 @@ Assuming you've **completed** the [Pre-installation](#one-pre-installation) part
 3. **Download AE content.** When you get to the main menu - the game would suggest you to download the AE content - click `DOWNLOAD`:
 
    <img src="images/readme_images/2_1_3_ae_content_ingame_popup.png" alt="AE popup" style="width:50%; height:auto;">
+
 > [!IMPORTANT]  
 > DON'T MINIMIZE THE GAME! Wait till everything is downloaded and popups stop appearing.
 
@@ -226,7 +227,7 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 
     <img src="images/readme_images/3_2_3_mo2_run_the_game.png" alt="MO2 run" style="width:50%; height:auto;">
 
-> [!TIP]  
+> [!TIP]
 > Wabbajack auto-detects and sets your **game resolution**, but if you wish to change your game's resolution **manually**, select the `INI Editor` from the `Tools` menu along the icon bar of MO2:
 > 
 >    <img src="images/readme_images/3_2_3_mo2_change_resolution.png" alt="MO2 ini editor" style="width:50%; height:auto;">
@@ -238,7 +239,7 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 > Hit `Save` at the bottom, and you're done!
 
 4. Wait untill the game loads, **it might take a while!** 
-> [!NOTE]  
+> [!NOTE]
 > There's a game of `Flappy Dragon` that opens up while your Skyrim is loading:
 > 
 >    <img src="images/readme_images/3_2_4_flappy_dragon.png" alt="Flappy Dragon" style="width:50%; height:auto;">
@@ -248,30 +249,44 @@ _Licentia NEXT_ is over **HALF A TERABYTE** in size with almost **HALF A MILLION
 
 **When you're in the main Skyrim menu** &mdash; proceed to the next step.
 
-### 3. Starting a save and configuring MCMs for the Modlist in-game
+### 3. Starting a save and letting the list configure itself
 
 1. **Start the game** &mdash; in main menu as normal by pressing `New Game`
-2. **Create & Name Your Character** &mdash; choose your character’s appearance and name.
-3. **Wait for Mod Initialization**
+2. **Create & name your character** &mdash; choose your character’s appearance and name.
+3. **Wait for mod initialization and list auto-configuration**
+> [!NOTE]  
+> Since `13.4.1` Licentia NEXT has a **fully automated** list configuration process thanks to our own amazing [@ninjawaffle](https://next.nexusmods.com/profile/ninjawaffle1?gameId=1704)! It will still take some time to complete, but you won't have to do anything manually.
+
 > [!CAUTION]
-> WHEN YOU SPAWN IN, **DO NOT TOUCH ANYTHING!**
-> As much as possible, try to remain still in game and not open menus while the MCM setup is in progress.
->
-> After gaining control of your character, wait. Mods will initialize &mdash; **wait for all of the messages in the upper left corner of the screen to appear and disappear**. A warning will be issued that this readme is mandatory for proper installation. Click through and continue to wait untill you get this pop-up saying `Museum List Building Complete`:
->
-> <img src="images/readme_images/3_3_3_museum_list_popup.png" alt="Museum build list complete" style="width:50%; height:auto;">
->
-> Click `OK` and proceed to next step.
+> When you spawn in after character creation, **YOU WON'T BE ABLE TO CONTROL YOUR CHARACTER UNTILL THE LIST HAS FINISHED IT'S AUTO-CONFIGURATION!**
 
-4. **Play MCM Recording.** When all of the messages have disappeared:
-   - Open the Main Menu with the `ESC` key and find the entry labeled `"MCM Recorder"` (They are in alphabetical order.) 
-   - Here, you will find an recording labeled `Licentia NEXT main recording`.
-   - Click on it, answer `Yes`, and use `ESC` to back out of all menus. 
-   - You will receive a popup asking if you wish to play the recording &mdash; please do so.
-   - Once again, please wait for all of the messages in the upper left corner of the screen to appear and disappear.
+ - You will be greeted with this pop-up message:
 
-5. Save your game, exit the game **COMPLETELY TO THE DESKTOP**, start it again via MO2 as described above, and load that save.
-6. That's it! Your modlist is configured :birthday:
+     <img src="images/readme_images/3_3_3_greetings_message.png" alt="Greetings message from automation script" style="width:50%; height:auto;">
+
+ - Read it, click `OK` and wait. The list will now **auto-configure itself**!
+> [!WARNING]
+> **This may take a while**, depending on your PC _(from 5 minutes on fast PCs to 20 on slow ones)_. Don't worry, it's normal, just wait.
+> 
+> You'll see mods being auto-configured in the **top-left corner** of the screen:
+> 
+> <img src="images/readme_images/3_3_3_mods_config_messages.png" alt="Mod configuration in progress" style="width:50%; height:auto;">
+> 
+> And our automatic script will send these notifications **every 15-20 seconds** to let you know that we're still in progress:
+> 
+> <img src="images/readme_images/3_3_3_our_config_messages.png" alt="Auto-configuration progress" style="width:50%; height:auto;">
+
+ - When the auto-configuration is done, you'll see this pop-up message:
+
+     <img src="images/readme_images/3_3_3_greetings_message.png" alt="Finished message from automation script" style="width:50%; height:auto;">
+
+ - Read it for basic start tips, just click `OK` and you're good to go &mdash; **THE LIST IS COMPLETELY CONFIGURED NOW!**
+ - The last thing before you go &mdash; you'll be offered a **divine blessing** with **LVL 5** and/or **1000 gold**. Choose according to your preference:
+
+    <img src="images/readme_images/3_3_3_final_gift.png" alt="Divine blessing" style="width:50%; height:auto;">
+
+4. Save your game by pressing `F5` or from the menu, exit the game **COMPLETELY TO THE DESKTOP**, start it again via MO2 as described above in step 3, and load that save.
+5. That's it! Go play the game already :birthday:
 
 ## :hearts: Final Notes
 
